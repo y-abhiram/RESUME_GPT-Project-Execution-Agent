@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Add Project</title>
+  <style>
+    body { font-family: Arial; background: #eef2f3; }
+    form { width: 50%; margin: 40px auto; background: white; padding: 20px; border-radius: 10px; }
+    input, textarea { width: 100%; margin: 10px 0; padding: 8px; }
+    button { padding: 10px 20px; background: #007bff; color: white; border: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <form action="/add_project" method="post" enctype="multipart/form-data">
+    <h2>Add New Project</h2>
+    <label>Title:</label><input type="text" name="title" required>
+    <label>Description:</label><textarea name="description" required></textarea>
+    <label>Technologies (comma separated):</label><input type="text" name="technologies" required>
+    <label>Importance:</label><textarea name="importance" required></textarea>
+    <label>Upload Python File:</label><input type="file" name="file" accept=".py">
+    <label>or Project Link (GitHub, Google Drive, etc.):</label><input type="text" name="link">
+    <button type="submit">Save Project</button>
+    <a href="/" style="
+    text-decoration:none; 
+    display:inline-block; 
+    padding:10px 20px; 
+    background:#ff4b5c; 
+    color:white; 
+    border-radius:5px; 
+    margin-left:10px;
+">Back</a>
+  </form>
+</body>
+</html>
+

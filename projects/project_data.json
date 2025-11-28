@@ -1,0 +1,47 @@
+{
+  "eeg_based_stress_detection": {
+    "title": "eeg based stress detection",
+    "description": "mental health",
+    "technologies": [
+      "Scikit-learn",
+      "TensorFlow",
+      "Keras",
+      "Pandas",
+      "NumPy",
+      "ml",
+      "ai",
+      "eeg",
+      "iot"
+    ],
+    "importance": "mental health prediction",
+    "file": null,
+    "link": "https://neurocruxalitix.onrender.com/",
+    "links": [
+      "https://neurocruxalitix.onrender.com/"
+    ],
+    "github": "",
+    "linkedin": "",
+    "run_command": "",
+    "keywords": []
+  },
+  "crop_recommmnedation": {
+    "title": "crop recommmnedation",
+    "description": "crop recommmnedation based on imp parameters",
+    "technologies": [
+      "ml",
+      "cs",
+      "ai",
+      "rag"
+    ],
+    "importance": "in agriculture to get more yields",
+    "file": null,
+    "link": "https://agricultural-advisory-and-control-system.streamlit.app/",
+    "links": [
+      "https://agricultural-advisory-and-control-system.streamlit.app/"
+    ],
+    "github": "",
+    "linkedin": "",
+    "run_command": "",
+    "keywords": []
+  }
+}

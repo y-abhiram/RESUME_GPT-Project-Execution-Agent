@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ResumeGPT - Unified AI Agent</title>
+  <style>
+    body {
+      font-family: Arial; 
+      background: #eef2f3; 
+      margin: 0; 
+      padding: 0;
+    }
+
+    /* Main container: flex for chat + sidebar */
+    #main-container {
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      padding: 20px;
+      gap: 20px;
+    }
+
+    /* Chatbox styling */
+    #chatbox {
+      width: 60%;
+      background: white; 
+      border-radius: 10px; 
+      padding: 20px; 
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    input {
+      width: 80%; 
+      padding: 10px; 
+      margin-top: 10px;
+    }
+
+    button {
+      padding: 10px 20px; 
+      margin: 5px; 
+      background: #007bff; 
+      border: none; 
+      color: white; 
+      border-radius: 5px; 
+      cursor: pointer;
+    }
+
+    #voiceToggle { background: #ff9800; }
+    #startBtn { background: #28a745; }
+    #chatlog { text-align:left; min-height:200px; padding:10px; }
+
+    /* Sidebar styling */
+/* Sidebar styling */
+#sidebar {
+  width: 0;
+  padding: 0;           /* hide padding when closed */
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  height: fit-content;
+  overflow: hidden;     /* hide everything */
+  transition: width 0.3s ease, padding 0.3s ease; /* smooth open/close */
+}
+
+#sidebar.open {
+  width: 25%;           /* full width when open */
+  padding: 20px;        /* restore padding */
+}
+
+
+    #sidebar h3 {
+      margin-top: 0;
+      margin-bottom: 10px;
+    }
+
+    #sidebar input {
+      width: 100%;
+    }
+
+    #sidebar button {
+      width: 100%;
+      margin-top: 10px;
+    }
+
+    #toggleSidebarBtn {
+      position: fixed;
+      right: 20px;
+      top: 20px;
+      background: #28a745;
+      border-radius: 5px;
+      padding: 10px 15px;
+      color: white;
+      cursor: pointer;
+      z-index: 1000;
+      box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    }
+
+  </style>
+</head>
+<body>
+  <!-- Toggle Sidebar Button -->
+  <div id="toggleSidebarBtn" onclick="toggleSidebar()">📄 Resume / Projects</div>
+
+  <div id="main-container">
+    <!-- Chat Area -->
+    <div id="chatbox">
+      <h2>🤖 ResumeGPT — AI Project Assistant</h2>
+      <div id="chatlog"></div>
+      <input id="query" placeholder="Ask about your projects...">
+      <button id="send" onclick="sendQuery()">Send</button>
+
+      <div style="margin-top: 10px;">
+        <button id="voiceToggle" onclick="toggleVoice()">🔊 Voice: ON</button>
+        <button id="micBtn" onclick="toggleListening()">🎤 Speak: OFF</button>
+        <button id="startBtn" onclick="playIntro()">▶ Start Interview</button>
+      </div>
+    </div>
+
+    <!-- Sidebar -->
+ <div id="sidebar">
+  <h3>📄 Upload Resume</h3>
+  <form id="resumeForm" enctype="multipart/form-data">
+    <input type="file" id="resumeFile" accept=".pdf,.doc,.docx">
+    <button type="button" onclick="uploadResume()">Upload & Summarize</button>
+  </form>
+
+  <hr>
+  <a href="/add_project"><button>Add New Project ➕</button></a>
+</div>
+  </div>
+<label id="generalAgentBox" class="toggle-container">
+    <input type="checkbox" id="generalAgentToggle">
+    <span class="toggle-switch"></span>
+    <span class="toggle-text">Use General GPT (LLM)</span>
+</label>
+
+<style>
+/* BIG toggle container */
+.toggle-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #ffffff;
+    padding: 14px 18px;
+    border-radius: 7px;
+    border: 2px solid #007bff;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    z-index: 9999;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Hide default checkbox */
+.toggle-container input {
+    display: none;
+}
+
+/* Toggle switch */
+.toggle-switch {
+    width: 60px;
+    height: 30px;
+    background: #ddd;
+    border-radius: 30px;
+    position: relative;
+    transition: 0.3s;
+}
+
+/* Toggle circle */
+.toggle-switch::after {
+    content: "";
+    width: 26px;
+    height: 26px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    transition: 0.3s;
+}
+
+/* When checked → Blue ON */
+.toggle-container input:checked + .toggle-switch {
+    background: #007bff;
+}
+
+.toggle-container input:checked + .toggle-switch::after {
+    left: 32px;
+}
+
+/* Toggle text */
+.toggle-text {
+    color: #333;
+}
+
+</style>
+
+  <script>
+    const chatlog = document.getElementById("chatlog");
+    const queryInput = document.getElementById("query");
+    const sidebar = document.getElementById("sidebar");
+
+    // Toggle Sidebar
+    function toggleSidebar() {
+      sidebar.classList.toggle("open");
+    }
+
+    // Voice Control
+    let voiceEnabled = true;
+    function toggleVoice() {
+      voiceEnabled = !voiceEnabled;
+      const btn = document.getElementById("voiceToggle");
+      btn.textContent = voiceEnabled ? "🔊 Voice: ON" : "🔇 Voice: OFF";
+      if (!voiceEnabled) window.speechSynthesis.cancel();
+    }
+
+    function speak(text) {
+      if (!text || !voiceEnabled) return;
+      window.speechSynthesis.cancel();
+      const speech = new SpeechSynthesisUtterance(text);
+      speech.lang = 'en-IN';
+      speech.rate = 1;
+      speech.pitch = 1;
+      const voices = speechSynthesis.getVoices();
+      if (voices.length > 0) speech.voice = voices.find(v => v.lang.includes('en')) || voices[0];
+      window.speechSynthesis.speak(speech);
+    }
+
+    function playIntro() {
+      const introText = "Hello, good day! I am your AI interviewer. Ask me about projects or skills.";
+      chatlog.innerHTML += `<p><b>Agent:</b> ${introText}</p>`;
+      speak(introText);
+      document.getElementById("startBtn").style.display = "none";
+    }
+
+    // Mic toggle
+    const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    const recognition = new SpeechRecognition();
+    recognition.lang = 'en-IN';
+    recognition.continuous = false;
+    let listening = false;
+
+    function toggleListening() {
+      const btn = document.getElementById("micBtn");
+      if (!listening) {
+        recognition.start();
+        listening = true;
+        btn.textContent = "🎤 Speak: ON";
+        btn.style.background = "#28a745";
+      } else {
+        recognition.stop();
+        listening = false;
+        btn.textContent = "🎤 Speak: OFF";
+        btn.style.background = "#007bff";
+      }
+    }
+
+    recognition.onend = function() {
+      if (listening) {
+        listening = false;
+        const btn = document.getElementById("micBtn");
+        btn.textContent = "🎤 Speak: OFF";
+        btn.style.background = "#007bff";
+      }
+    }
+
+    recognition.onresult = function(event) {
+      const query = event.results[0][0].transcript;
+      queryInput.value = query;
+      sendQuery();
+    }
+
+	async function sendQuery() {
+	    const query = queryInput.value.trim();
+	    if (!query) return;
+
+	    const useGeneral = document.getElementById("generalAgentToggle").checked;
+
+	    chatlog.innerHTML += `<p><b>You:</b> ${query}</p>`;
+	    queryInput.value = "";
+
+	    try {
+		const res = await fetch("/ask", {
+		    method: "POST",
+		    headers: { "Content-Type": "application/json" },
+		    body: JSON.stringify({
+		        query: query,
+		        general_agent: useGeneral   // ⭐ NEW FIELD
+		    })
+		});
+
+		const data = await res.json();
+		chatlog.innerHTML += `<p><b>Agent:</b> ${data.response}</p>`;
+		chatlog.scrollTop = chatlog.scrollHeight;
+		speak(data.response);
+
+	    } catch {
+		chatlog.innerHTML += `<p style="color:red;"><b>Error:</b> Server not responding.</p>`;
+	    }
+	}
+
+
+    queryInput.addEventListener("keypress", function(event) {
+      if (event.key === "Enter") {
+        event.preventDefault();
+        sendQuery();
+      }
+    });
+
+    // Resume Upload
+    async function uploadResume() {
+      const fileInput = document.getElementById("resumeFile");
+      if (!fileInput.files.length) {
+        alert("Please select a file!");
+        return;
+      }
+      const formData = new FormData();
+      formData.append("resume", fileInput.files[0]);
+      try {
+        const res = await fetch("/upload_resume", {
+          method: "POST",
+          body: formData
+        });
+        const data = await res.json();
+        chatlog.innerHTML += `<p><b>Agent:</b> Resume uploaded and summarized for <i>${data.name}</i> ✅</p>`;
+        speak(`Resume uploaded and summarized for ${data.name}`);
+      } catch {
+        chatlog.innerHTML += `<p style="color:red;"><b>Error:</b> Failed to upload resume.</p>`;
+      }
+    }
+
+    window.speechSynthesis.onvoiceschanged = () => {};
+    const useGeneral = document.getElementById("generalAgentToggle").checked;
+
+fetch("/ask", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+        query: userInput,
+        general_agent: useGeneral    // NEW
+    })
+})
+
+  </script>
+</body>
+</html>
+

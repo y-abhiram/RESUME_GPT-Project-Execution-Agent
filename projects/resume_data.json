@@ -1,0 +1,179 @@
+{
+  "YALLA ABHIRAM CHOWDARY": {
+    "name": "YALLA ABHIRAM CHOWDARY",
+    "summary": "Aspiring Data Engineer and Machine Learning Enthusiast skilled in Python, data analysis, and AI-based automation. Experienced in developing predictive models, IoT-integrated intelligent systems, and data-driven solutions to solve real-world challenges.",
+    "skills": [
+      "Programming Languages: Python, C++, C",
+      "Machine Learning: Supervised & Unsupervised Learning, Ensemble Learning, Model Evaluation & Tuning",
+      "Generative AI: LLM Fine-Tuning, Retrieval-Augmented Generation (RAG)",
+      "Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Keras, TensorFlow, OpenCV",
+      "Tools: GitHub, Hugging Face, Render, Docker, VScode, Jupyter Notebook, Excel, Google Colab, OpenAI & Gemini APIs",
+      "Database & Web Technologies: SQL, MongoDB, Flask, HTML, CSS",
+      "Soft Skills: Depth-oriented, Self-motivated, Problem Solving, Teamwork, Good Communication"
+    ],
+    "education": [
+      "Bachelor of Technology, Electronics and Communication Engineering (CGPA: 8.4), Minor: Machine Learning, Pre-University Course: CGPA 9.8 - Rajiv Gandhi University of Knowledge Technologies (RGUKT) \u2013IIIT RK Valley (2020\u20132026)",
+      "SSC (10th Grade) (CGPA: 10.0) - Board of Secondary Education of Andhra Pradesh, AP Model School & Junior College, Ramagiri (2019\u20132020)"
+    ],
+    "projects": [
+      "EEG-Based Stress Detection and Mental Workload Monitoring System: Developed a multimodal stress detection system combining EEG signals, facial behavior (blink rate, emotion, head movement), and questionnaire inputs. Trained CNN and XGBoost models for cognitive state analysis and applied Mediapipe for real-time facial analytics. Deployed the complete Flask-based system on Render for live stress visualization and automated reporting.",
+      "AI-Powered Crop Recommendation and Smart Agricultural Advisory System: Built an AI-IoT crop advisory system using soil, weather, and investment data for optimal recommendations. Trained Random Forest models for yield forecasting and dynamic decision support using real-time environmental data. Deployed the Streamlit-based application\u2013Blynk integration for visualization and remote monitoring.",
+      "ExpressTune \u2013 AI Music Player Based on Facial Expressions: Built a real-time emotion-based music recommendation app using OpenCV and deep learning for facial expression analysis. Integrated emotion classification and playlist automation for personalized music experiences.",
+      "AI-Powered Predictive Analytics Models: Developed regression and classification models for car price estimation, diabetes detection, and IPL match prediction. Utilized Python, Pandas, and Scikit-learn for end-to-end data preprocessing, model building, and evaluation."
+    ],
+    "experience": [
+      "AI Intern at Antt AI Labs Private Limited (Aug 2025 \u2013 Oct 2025, Bengaluru): Designed and deployed voice-controlled AI agents using the OpenAI platform and Gemini APIs for real-time automation. Integrated FastMCP-based robotic pick-and-place workflows, boosting operational efficiency by 25%. Gained hands-on experience with Action Transformers, SmolVLA, NLP, prompt engineering, and TypeScript for intelligent agent development.",
+      "Research Intern at IIT Tirupati (May 2025 \u2013 Jul 2025, Tirupati): Explored the biomedical applications of BCIs, focusing on EEG and MEG devices to improve human-computer interaction. Developed a single-channel EEG-based framework for real-time mental state and stress classification. Extracted neurophysiological features (Beta/Alpha, Theta/Beta, spectral entropy) using advanced signal processing. Built an ensemble of XGBoost, LightGBM, and Random Forest models achieving 85% accuracy across five cognitive states. Applied SHAP-based explainability and deployed the system via Flask for live EEG prediction and visualization.",
+      "Machine Learning Intern at InternPe (Jan 2024 \u2013 Feb 2024, Remote): Built predictive models for healthcare and automobile pricing using Python, Pandas, and Scikit-learn. Conducted preprocessing, feature engineering, and model tuning to improve predictive performance. Contributed to end-to-end development of ML pipelines supporting analytics and deployment tasks."
+    ],
+    "achievements": [
+      "Inspire Award\u2013 Awarded by the Ministry of Science & Technology for innovation in science.",
+      "Essay & Painting Competition Winner\u2013 Recognized by the Ministry of Water & Resources.",
+      "Technical Champion\u2013 Multiple technical quiz wins in college and school.",
+      "Winner at College-Level Hackathons\u2013 Developed AI-IoT-based solutions, including an AI-based Strabismus Detection system, as part of an IIT Tirupati collaborative project."
+    ],
+    "certifications": [
+      "SQL Certifications (HackerRank) \u2014 Basic, Intermediate",
+      "Cyber Security Fundamentals Training \u2014 MyCyberly (Cybtree)",
+      "Artificial Intelligence Fundamentals \u2013 IBM SkillsBuild",
+      "Python for Data Science \u2013 Cognitive Class",
+      "C, C++, MySQL, DSA, MATLAB \u2013 Great Learning",
+      "Science Exhibition \u2013 Timbaktu Collective",
+      "Game Development using Pygame \u2013 GUVI",
+      "Data Mining for Data Science \u2013 Mind Luster",
+      "Internal Smart India Hackathon 2024"
+    ],
+    "email": "yallaabhiramchowdary999@gmail.com",
+    "phone": "+91 6305518110",
+    "github": "https://github.com/y-abhiram",
+    "linkedin": "https://linkedin.com/in/yalla-abhiram-chowdary/",
+    "location": "Sri Satya Sai, Andhra Pradesh, India",
+    "full_text": "YALLA ABHIRAM CHOWDARY\n/envel\u2322peyallaabhiramchowdary999@gmail.com \u2014/linkedinlinkedin.com/in/yalla-abhiram-chowdary/ \u2014/githubgithub.com/y-abhiram \u2014\u2642phone+91 6305518110\n\u2014 Sri Satya Sai, Andhra Pradesh, India\nProfessional Summary\nAspiringData Engineer and Machine Learning Enthusiastskilled in Python, data analysis, and AI-based automation.\nExperienced in developing predictive models, IoT-integrated intelligent systems, and data-driven solutions to solve real-world\nchallenges.\nTechnical Skills\n\u2022Programming Languages:Python, C++ and C.\n\u2022Machine Learning :Supervised & Unsupervised Learning, Ensemble Learning, Model Evaluation & Tuning\n\u2022Generative AI:LLM Fine-Tuning, Retrieval-Augmented Generation (RAG)\n\u2022Libraries & Frameworks:Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Keras, TensorFlow, OpenCV\n\u2022Tools:GitHub, Hugging Face, Render, Docker, VScode, Jupyter Notebook, Excel, Google Colab ,OpenAI& Gemini APIs.\n\u2022Database & Web Technologies:SQL, MongoDB, Flask, HTML, CSS\n\u2022Soft Skills:Depth-oriented, Self-motivated, Problem Solving, Teamwork, Good Communication\nProfessional Experience\nAntt AI Labs Private Limited \u2014 AI InternAug 2025 \u2013 Oct 2025 \u2014 Bengaluru\n\u2022Designed and deployed voice-controlled AI agents using the OpenAI platform and Gemini APIs for real-time automation.\n\u2022Integrated FastMCP-based robotic pick-and-place workflows, boosting operational efficiency by 25%.\n\u2022Gained hands-on experience with Action Transformers, SmolVLA, NLP, prompt engineering, and TypeScript for intelligent\nagent development.\nIIT Tirupati \u2014 Research InternMay 2025 \u2013 Jul 2025 \u2014 Tirupati\n\u2022Explored the biomedical applications of BCIs, focusing on EEG and MEG devices to improve human-computer interaction.\n\u2022Developed a single-channel EEG-based framework for real-time mental state and stress classification.\n\u2022Extracted neurophysiological features (Beta/Alpha, Theta/Beta, spectral entropy) using advanced signal processing.\n\u2022Built an ensemble of XGBoost, LightGBM, and Random Forest models achieving 85% accuracy across five cognitive states.\n\u2022Applied SHAP-based explainability and deployed the system via Flask for live EEG prediction and visualization.\nInternPe \u2014 Machine Learning InternJan 2024 \u2013 Feb 2024 \u2014 Remote\n\u2022Built predictive models for healthcare and automobile pricing using Python, Pandas, and Scikit-learn.\n\u2022Conducted preprocessing, feature engineering, and model tuning to improve predictive performance.\n\u2022Contributed to end-to-end development of ML pipelines supporting analytics and deployment tasks.\nProjects\nEEG-Based Stress Detection and Mental Workload Monitoring System/external-link-alt\n\u2022Developed a multimodal stress detection system combining EEG signals, facial behavior (blink rate, emotion, head move-\nment), and questionnaire inputs.\n\u2022Trained CNN and XGBoost models for cognitive state analysis and applied Mediapipe for real-time facial analytics.\n\u2022Deployed the complete Flask-based system on Render for live stress visualization and automated reporting.\nAI-Powered Crop Recommendation and Smart Agricultural Advisory System/external-link-alt\n\u2022Built an AI-IoT crop advisory system using soil, weather, and investment data for optimal recommendations.\n\u2022Trained Random Forest models for yield forecasting and dynamic decision support using real-time environmental data.\n\u2022Deployed the Streamlit-based application\u2013Blynk integration for visualization and remote monitoring.\nExpressTune \u2013 AI Music Player Based on Facial Expressions/external-link-alt\n\u2022Built a real-time emotion-based music recommendation app using OpenCV and deep learning for facial expression analysis.\n\u2022Integrated emotion classification and playlist automation for personalized music experiences.\nAI-Powered Predictive Analytics Models\n\u2022Developed regression and classification models forcar price estimation, diabetes detection, and IPL match prediction.\n\u2022Utilized Python, Pandas, and Scikit-learn for end-to-end data preprocessing, model building, and evaluation.\nEducation\nBachelor of Technology 2020\u20132026\nRajiv Gandhi University of Knowledge Technologies (RGUKT) \u2013IIIT RK Valley\n\u2022Major:Electronics and Communication Engineering (CGPA: 8.4) \u2014Minor:Machine Learning\n\u2022Pre-University Course:CGPA 9.8\nBoard of Secondary Education of Andhra Pradesh2019\u20132020\nAP Model School & Junior College, Ramagiri \u2014 SSC (10th Grade) \u2014 CGPA: 10.0\nAchievements\n\u2022Inspire Award\u2013 Awarded by the Ministry of Science & Technology for innovation in science.\n\u2022Essay & Painting Competition Winner\u2013 Recognized by the Ministry of Water & Resources.\n\u2022Technical Champion\u2013 Multiple technical quiz wins in college and school.\n\u2022Winner at College-Level Hackathons\u2013 Developed AI-IoT-based solutions, including anAI-based Strabismus Detection\nsystem, as part of anIIT Tirupaticollaborative project.\nCertifications\n\u2022 SQL Certifications (HackerRank) \u2014 Basic, Intermediate\n\u2022 Cyber Security Fundamentals Training \u2014 MyCyberly (Cybtree)\n\u2022 Artificial Intelligence Fundamentals \u2013 IBM SkillsBuild\n\u2022 Python for Data Science \u2013 Cognitive Class\n\u2022 C, C++, MySQL, DSA, MATLAB \u2013Great Learning\n\u2022 Science Exhibition \u2013Timbaktu Collective\n\u2022 Game Development using Pygame \u2013 GUVI\n\u2022 Data Mining for Data Science \u2013 Mind Luster\n\u2022 Internal Smart India Hackathon 2024\n"
+  },
+  "MUDUNURI SEETA RAMA KARTHIKEYA VARMA": {
+    "name": "MUDUNURI SEETA RAMA KARTHIKEYA VARMA",
+    "summary": "",
+    "skills": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Ensemble Learning",
+      "Model Evaluation & Tuning",
+      "ANN",
+      "CNN",
+      "LSTM",
+      "Transfer Learning",
+      "Hyperparameter Optimization",
+      "Quantization",
+      "LLMs Fine-Tuning",
+      "SLMs Fine-Tuning",
+      "RAG",
+      "LangChain",
+      "Pandas",
+      "NumPy",
+      "Matplotlib",
+      "Seaborn",
+      "SciPy",
+      "Scikit Learn",
+      "Keras",
+      "TensorFlow",
+      "OpenCV",
+      "Beautiful Soup",
+      "Hugging Face",
+      "Power BI",
+      "Render",
+      "Docker",
+      "C",
+      "Python",
+      "Java",
+      "C++",
+      "Depth-oriented",
+      "Pragmatic",
+      "Self-motivated"
+    ],
+    "education": [
+      {
+        "degree": "Bachelor of Technology",
+        "institution": "",
+        "dates": "",
+        "location": ""
+      },
+      {
+        "degree": "Board of Intermediate Education",
+        "institution": "",
+        "dates": "",
+        "location": ""
+      },
+      {
+        "degree": "Board of Secondary Education Of Andhra Pradesh",
+        "institution": "",
+        "dates": "",
+        "location": ""
+      }
+    ],
+    "projects": [
+      {
+        "title": "GPT FORGE - SMALL LANGUAGE MODEL",
+        "description": [
+          "Enforced a custom learning rate scheduler by combining linear warmup and cosine annealing to ensure smoother convergence during training.",
+          "Integrated PyTorch autocast for mixed-precision training, leading to a 30% reduction in GPU memory usage, and achieved more coherent text generation than GPT-2."
+        ]
+      },
+      {
+        "title": "MEDIOLOGUE",
+        "description": [
+          "Built an AI system to extract key medical insights from doctor-patient conversation.",
+          "Used Whisper ASR+NMT Model for Telugu-to-English transcription."
+        ]
+      },
+      {
+        "title": "RICE RADAR",
+        "description": [
+          "Attained a 97.5% precision score for robust classification during model testing.",
+          "Reducing manual identification time by 30% and improving decision-making in agriculture."
+        ]
+      },
+      {
+        "title": "ARMOR GAZE",
+        "description": [
+          "Fine-tuned the YOLOv8 model on a helmet dataset to identify whether individuals on bikes are wearing helmets or not.",
+          "Mitigated severe class imbalance using Albumentation-based data augmentation, leading to a ~15% improvement in recall and better generalization on minority class examples.",
+          "Accomplished high validation performance: Precision of 93.6%, Recall of 96.4%, and mAP@50 of 97.5%, indicating strong model accuracy and robustness."
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "title": "Machine Learning Intern",
+        "company": "IIT TIRUPATI",
+        "dates": "May 2025 \u2013 June 2025",
+        "location": "Tirupati",
+        "description": [
+          "Designed and implemented a hybrid CNN-LSTM model to predict milling forces from spindle current signals, reducing reliance on physical sensors by 30\u201340%.",
+          "Conducted systematic hyperparameter tuning, exploring variations in kernel size, filters, LSTM cell counts, and learning rates, leading to a 15% increase in model accuracy.",
+          "Trained a robust neural network to model non-linear and delayed relationships between current and force signals with Keras."
+        ]
+      },
+      {
+        "title": "Generative AI Intern",
+        "company": "Blackbuck Engineers",
+        "dates": "June 2024 - July 2024",
+        "location": "Online",
+        "description": [
+          "Built and trained a model on the CIFAR-10 dataset, achieving ~85% test accuracy, while experimenting with architecture variations to improve performance.",
+          "Enhanced model robustness using normalization, data augmentation, dropout, and batch normalization reducing overfitting by 20\u201325%."
+        ]
+      }
+    ],
+    "achievements": [],
+    "certifications": [
+      "VEDIC VISION - 2K24 HACKATHON",
+      "Google Developer Groups - DEV CHALLENGE\u201925"
+    ],
+    "email": "seeta4ml@gmail.com",
+    "phone": "8919104346",
+    "github": "https://github.com/meranamkarthikeyavarma",
+    "linkedin": "https://www.linkedin.com/in/seeta-rama-karthikeya-varma-mudunuri-138464343/",
+    "location": "Palakol, Andhra Pradesh, India",
+    "full_text": "MUDUNURI  SEETA  RAMA  KARTHIKEYA  VARMA  \n https://github.com/meranamkarthikeyavarma /  Palakol,  Andhra  Pradesh,  India   seeta4ml @gmail.com   8919104346    in/seeta -rama -karthikeya -varma -mudunuri -138464343 / \n \nSUMMARY  \n \n \nSKILLS  \n\u2022 Machine  Learning : Supervised  & Unsupervised  Learning,  Ensemble  Learning,  Model  Evaluation  & Tuning  \n\u2022 Deep  Learning : ANN,  CNN,  LSTM,  Transfer Learning  Hyperparameter  Optimization  \n\u2022 Generative  AI: Quantization,  LLMs  / SLMs  Fine-Tuning,  RAG  \n\u2022 Libraries  and Frameworks : LangChain,  Pandas,  NumPy,  Matplotlib,  Seaborn,  SciPy,  Scikit  Learn,  Keras,  TensorFlow,  OpenCV,  Beautiful  Soup  \n\u2022 Tools : Hugging  Face,  Power  BI, Render,  Docker  \n\u2022 Programming Languages  : C, Python, Java, C++  \n\u2022 Soft Skills : Depth -oriented, P ragmatic, Self -motivated  \n \n \nEXPERIENCE  \nMachine  Learning  Intern  \nIIT TIRUPATI  May  2025  \u2013 June  2025 , Tirupati  \n Designed  and implemented  a hybrid  CNN -LSTM  model  to predict  milling  forces  from spindle  current  signals,  reducing  reliance  on physical  sensors  by 30\u201340%.  \n Conducted  systematic  hyperparameter  tuning,  exploring  variations  in kernel size,  filters,  LSTM  cell counts,  and learning  rates,  leading  to a 15%  increase  in model accuracy.  \n Trained  a robust neural  network  to model non -linear  and delayed  relationships  between  current  and force signals  with Keras.  \n \nGenerative  AI Intern  \nBlackbuck  Engineers  June  2024  - July 2024 , Online  \n  \nBuilt  and trained  a model  on the CIFAR -10 dataset,  achieving  ~85%  test accuracy,  while  experimenting  with architecture  variations  to improve  performance.  \n Enhanced  model  robustness  using  normalization,  data augmentation,  dropout,  and batch  normalization  reducing  overfitting  by 20\u201325%.  \n \nPROJECTS  \nGPT  FORGE  - SMALL  LANGUAGE  MODEL  \n  \n Enforced  a custom learning rate  scheduler by  combining  linear warmup  and cosine annealing to ensure smoother convergence  during training.  \n Integrated  PyTorch  autocast  for mixed -precision  training,  leading  to a 30%  reduction  in GPU memory  usage,  and achieved  more  coherent  text generation  than GPT-2. \n \nMEDIOLOGUE  \n Built  an AI system  to extract  key medical  insights  from  doctor -patient  conversation.  \n Used  Whisper  ASR+NMT  Model  for Telugu -to-English  transcription.  \n  \n \nRICE  RADAR  \n  \n Attained  a 97.5%  precision  score  for robust  classification  during  model testing.  \nReducing  manual  identification  time by 30% and improving  decision -making  in agriculture.  \n \nARMOR  GAZE  \n Fine-tuned  the YOLOv8  model  on a helmet dataset to  identify  whether  individuals on  bikes  are wearing  helmets  or not. \nMitigated  severe  class  imbalance  using  Albumentation  -based  data augmentation,  leading  to a ~15%  improvement  in recall  and better  generalization  on minority  class  examples . \n Accomplished high  validation perf ormance : Precision of 93.6%, Recall of 96. 4%, and mAP@50 of 97.5%, indicating strong model accurac y and robustness . \n \n \nEDUCATION  \nBachelor  of Technology  \n \n \nBoard  of Intermediate  Education  \n \n \nBoard  of Secondary  Education  Of Andhra  Pradesh  \n \n \nCERTIFICATIONS  \nVEDIC  VISION  - 2K24  HACKATHON  \n \n  \n \nGoogle  Developer  Groups  - DEV  CHALLENGE\u201925  \n \n  \n\n"
+  }
+}

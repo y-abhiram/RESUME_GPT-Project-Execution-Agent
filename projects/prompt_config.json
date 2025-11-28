@@ -1,0 +1,7 @@
+{
+  "resume_extraction_prompt": "You are a precise resume extractor. From the following text return ONLY JSON containing keys: name, summary, skills, education, projects, experience, achievements, certifications, email, phone, github, linkedin, location.",
+  "resume_summary_prompt": "Summarize this resume in 5 lines:",
+  "project_summary_prompt": "Summarize this project in 3 lines and give 3 keywords:",
+  "rag_fallback_intro": "Use the context below (do not invent facts). If the answer is not present, say you don't know and give helpful next steps.",
+  "max_context_chars": 3000
+}

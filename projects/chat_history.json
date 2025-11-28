@@ -1,0 +1,620 @@
+{
+  "General": [
+    {
+      "user": "hi",
+      "agent": "Hello! How can I help you with the information about the 'eeg' project or YALLA ABHIRAM CHOWDARY's resume? Please let me know if you have any questions."
+    },
+    {
+      "user": "skills of abhiram",
+      "agent": "Abhiram's skills include:\n\n*   **Programming Languages:** Python, C, C++\n*   **Machine Learning & Data Science:** Machine Learning, AI, Data Analytics, Pandas, NumPy, Scikit-learn, TensorFlow\n*   **Other Categories:** Database & Web Technologies, Tools & Platforms, Soft Skills"
+    },
+    {
+      "user": "Soft Skills of him",
+      "agent": "I don't know the specific soft skills of Yalla Abhiram Chowdary.\n\n**Helpful next steps:**\n*   Look for a more detailed \"Soft Skills\" section in the full resume.\n*   Review the experience descriptions for implicit soft skills (e.g., teamwork, problem-solving, communication), though these are not explicitly listed as soft skills in the provided context."
+    },
+    {
+      "user": "execute linkedin and github of yalla abhiram chowdray",
+      "agent": "I don't know. The provided context does not include Yalla Abhiram Chowdary's LinkedIn or GitHub profiles.\n\nTo find this information, you would typically look for a dedicated \"Links\" or \"Contact Information\" section on a full resume, or you could search for \"Yalla Abhiram Chowdary\" directly on LinkedIn and GitHub."
+    },
+    {
+      "user": "ook",
+      "agent": "I don't know how to answer \"ook\".\n\nTo help me, please rephrase your request as a clear question. For example, you could ask:\n*   \"What projects has YALLA ABHIRAM CHOWDARY worked on?\"\n*   \"What are the technologies used in the 'eeg' project?\"\n*   \"When did YALLA ABHIRAM CHOWDARY intern at IIT Tirupati?\"\n*   \"What are Y.Abhiram_Chowdary's skills?\""
+    },
+    {
+      "user": "give his experience",
+      "agent": "Here is Yalla Abhiram Chowdary's experience:\n\n*   **AI Intern** at **Antt AI Labs** (Aug 2025 \u2013 Present)\n    *   Worked on AI agent development and robotics simulation using frameworks like ManiSkill3.\n    *   Designed and deployed voice-controlled agents using OpenAI and Gemini APIs for real-time automation tasks.\n    *   Integrated a FastMCP server for intelligent pick-and-place workflows.\n    *   Gained experience in AI model development, data-driven decision-making, debugging simulation pipelines, and leveraging tools such as SmolVLA for building scalable, intelligent agent systems.\n\n*   **Research Intern** at **IIT Tirupati** (May 2025 - Jul 2025)\n    *   Worked on a Brain-Computer Interface (BCI) project focused on EEG-based stress detection and mental workload analysis using machine learning techniques.\n    *   Collected and processed EEGEOG signals, extracted cognitive features (band power, entropy, etc.), and developed classification models (XGBoost, CNN, RANDOM FORESTS..etc) for mental state prediction.\n    *   Gained hands-on experience in signal processing, data analysis, and real-time system implementation using Python and Flask.\n\n*   **Machine Learning Intern** at **InternPe** (Jan 2024 - Feb 2024)\n    *   Worked on AI/ML projects, developing predictive models for healthcare and automobile pricing using Python, Pandas."
+    },
+    {
+      "user": "ok give me his linkedin accout",
+      "agent": "I don't know his LinkedIn account. The provided context does not include a link to his LinkedIn profile.\n\n**Helpful next steps:**\nYou could try searching for \"Yalla Abhiram Chowdary\" on LinkedIn."
+    },
+    {
+      "user": "link",
+      "agent": "https://neurocruxalitix.onrender.com/"
+    },
+    {
+      "user": "his github link",
+      "agent": "I don't know. The provided context does not include Yalla Abhiram Chowdary's GitHub link.\n\n**Helpful next steps:**\n* Check his LinkedIn profile if available.\n* Look for a personal portfolio website he might have.\n* If you have direct contact, you could ask him for his GitHub link."
+    },
+    {
+      "user": "execute link",
+      "agent": "I cannot directly execute links as I am an AI and do not have a web browser to navigate to URLs.\n\nHowever, I can provide the link found in the context:\n\nhttps://neurocruxalitix.onrender.com/\n\nYou can copy and paste this link into your web browser to visit the page."
+    },
+    {
+      "user": "hi",
+      "agent": "Hello! How can I help you today?"
+    },
+    {
+      "user": "open linkedin",
+      "agent": "I don't know.\n\nTo help you, please specify whose LinkedIn profile you would like to open, or provide a LinkedIn URL. The provided context does not contain any LinkedIn profiles or links."
+    },
+    {
+      "user": "projects and experience he have",
+      "agent": "Here are the projects and experience Yalla Abhiram Chowdary has:\n\n**Projects:**\n*   Real-time crop recommendation system using IoT sensor data.\n*   Facial emotion recognition model for personalized music recommendations.\n*   Analytical models for car price estimation.\n*   Analytical models for diabetes prediction.\n*   IPL match outcome forecasting.\n\n**Experience:**\n*   **Antt AI Labs \u2013 AI Intern (Aug 2025 \u2013 Present)**\n    *   Worked on AI agent development and robotics simulation using frameworks like ManiSkill3.\n    *   Designed and deployed voice-controlled agents using OpenAI and Gemini APIs for real-time automation tasks.\n    *   Integrated a FastMCP server for intelligent pick-and-place workflows.\n    *   Gained experience in AI model development, data-driven decision-making, debugging simulation pipelines, and leveraging tools such as SmolVLA for building scalable, intelligent agent systems.\n*   **IIT Tirupati - Research Intern (May 2025 - Jul 2025)**\n    *   Worked on a Brain-Computer Interface (BCI) project focused on EEG-based stress detection and mental workload analysis using machine learning techniques.\n    *   Collected and processed EEGEOG signals, extracted cognitive features (band power, entropy, etc.).\n    *   Developed classification models (XGBoost, CNN, RANDOM FORESTS..etc) for mental state prediction.\n    *   Gained hands-on experience in signal processing, data analysis, and real-time system implementation using Python and Flask.\n*   **InternPe - Machine Learning Intern (Jan 2024 - Feb 2024)**\n    *   Worked on AI/ML projects, developing predictive models for healthcare and automobile pricing using Python, Pandas, and Scikit-learn.\n    *   Gained experience in data preprocessing, feature engineering, and model optimization while contributing to product development and research."
+    },
+    {
+      "user": "give me his linkedin and github liks and execute",
+      "agent": "I don't know Abhiram Chowdary's LinkedIn or GitHub links as they are not provided in the context.\n\n**Helpful next steps:**\n*   You could try searching for \"YALLA ABHIRAM CHOWDARY\" on LinkedIn or GitHub directly.\n*   These links are typically included in a more comprehensive resume or portfolio."
+    },
+    {
+      "user": "execute projects",
+      "agent": "I don't know how to \"execute projects\" based on the provided context.\n\nHelpful next steps:\n*   Please clarify what you mean by \"execute projects.\" Are you looking for a list of projects, a description of the work involved, or something else?\n*   If you are looking for a list of projects, please specify which resume you are referring to or if you want projects from both."
+    },
+    {
+      "user": "hi",
+      "agent": "Hello! How can I help you today? Please feel free to ask a question about the provided context regarding the \"eeg\" project or the resumes of YALLA ABHIRAM CHOWDARY / Y.Abhiram_Chowdary."
+    },
+    {
+      "user": "execute abhiram linkedin",
+      "agent": "I don't know Abhiram's LinkedIn profile. The provided context does not contain any information about his LinkedIn account or a link to it.\n\n**Helpful next steps:**\nYou could try searching for \"YALLA ABHIRAM CHOWDARY\" on LinkedIn directly, or perform a general web search for his name along with \"LinkedIn\" to find his profile if it's publicly available."
+    },
+    {
+      "user": "hi",
+      "agent": "Hello! How can I help you today with the provided context about the \"eeg\" project or YALLA ABHIRAM CHOWDARY's resume?"
+    },
+    {
+      "user": "now execute github",
+      "agent": "I don't know how to \"execute github\" based on the provided context. GitHub is a platform for version control and collaboration, not a command that can be executed.\n\n**Helpful next steps:**\n*   If you are looking for a GitHub repository related to the \"eeg\" project, please note that the context only provides the link `https://neurocruxalitix.onrender.com/`, which is not a GitHub link.\n*   If you are looking for YALLA ABHIRAM CHOWDARY's GitHub profile or specific projects, the resume mentions \"GitHub\" as a skill but does not provide a direct link to their profile or repositories.\n*   Please specify what you would like to do with GitHub (e.g., \"Find the GitHub repository for the eeg project\" or \"Find YALLA ABHIRAM CHOWDARY's GitHub profile\")."
+    },
+    {
+      "user": "ok open his linkedin",
+      "agent": "I don't know. The context provided does not include a LinkedIn profile link for Yalla Abhiram Chowdary.\n\nTo find his LinkedIn profile, you could:\n* Check the full resume if it's available, as it might contain contact information or social media links.\n* Search for \"Yalla Abhiram Chowdary LinkedIn\" on a search engine."
+    },
+    {
+      "user": "execute abhiram linkedin accout in a new window",
+      "agent": "I don't know Abhiram's LinkedIn account. The provided resume context does not include this information.\n\nTo find Abhiram's LinkedIn account, you could try searching for \"YALLA ABHIRAM CHOWDARY LinkedIn\" on a search engine."
+    },
+    {
+      "user": "ABHIRAM  resume execute his linkedin",
+      "agent": "I don't know Abhiram's LinkedIn profile based on the provided context. The context only contains summaries of his resume, skills, and experience, but no link or mention of his LinkedIn profile.\n\n**Next steps:**\n*   You could try searching for \"Y.Abhiram Chowdary\" or \"Yalla Abhiram Chowdary\" directly on LinkedIn.\n*   If you have access to his full resume, the LinkedIn profile might be listed there."
+    },
+    {
+      "user": "open his github link",
+      "agent": "I don't know. The provided context lists \"GitHub\" as a skill for Yalla Abhiram Chowdary, but it does not include a specific GitHub link or URL.\n\n**Helpful next steps:**\n* Look for a \"Portfolio,\" \"Links,\" or \"Social Media\" section in the full resume if available.\n* If you have their contact information, you could ask them directly.\n* You could try searching for \"Yalla Abhiram Chowdary GitHub\" on a search engine, though the context given here does not provide it."
+    },
+    {
+      "user": "execute project link",
+      "agent": "The project link is: https://neurocruxalitix.onrender.com/"
+    },
+    {
+      "user": "how many yearns experience he have",
+      "agent": "Based on the provided context, the total number of years of experience is not explicitly stated.\n\nHowever, the resume lists the following internship durations:\n*   **Antt AI Labs:** August 2025 \u2013 Present (this role is ongoing, so its total duration is not fixed)\n*   **IIT Tirupati:** May 2025 \u2013 July 2025 (3 months)\n*   **InternPe:** January 2024 \u2013 February 2024 (2 months)\n\nTo determine the exact cumulative \"years of experience,\" you would need to know the end date for the \"Antt AI Labs\" role."
+    },
+    {
+      "user": "how many years experience he have",
+      "agent": "Gemini error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    },
+    {
+      "user": "does he know python",
+      "agent": "Yes, Y. Abhiram Chowdary is proficient in Python. It is listed as a programming language he knows and has been used in his experience at IIT Tirupati."
+    },
+    {
+      "user": "ok open his linkedin",
+      "agent": "I don't know. The provided context does not include a LinkedIn profile link for Y. Abhiram Chowdary.\n\nTo find his LinkedIn profile, you would typically look for it directly on his full resume, a personal website, or by searching for \"Yalla Abhiram Chowdary LinkedIn\" on a search engine."
+    },
+    {
+      "user": "open his github",
+      "agent": "Gemini error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}"
+    },
+    {
+      "user": "execute project",
+      "agent": "I don't know how to \"execute project\" based on the provided context.\n\nHelpful next steps would be to clarify what you mean by \"execute project.\" For example, are you looking to:\n*   Run a specific script or program related to the EEG project?\n*   Access the deployed application mentioned in the link?\n*   Start a development environment for the project?\n*   Find instructions for deploying or running a model mentioned in the resume?\n\nPlease provide more specific details about what you'd like to do."
+    },
+    {
+      "user": "hi",
+      "agent": "Hello! I am a resume analysis AI. How can I help you today?"
+    },
+    {
+      "user": "ok give me al his skills",
+      "agent": "Yalla Abhiram Chowdary's skills include:\n\n**Programming Languages:**\n*   Python\n*   C\n*   C++\n\n**Machine Learning & Data Science:**\n*   Machine Learning (ML)\n*   Artificial Intelligence (AI)\n*   Data Analytics\n*   Pandas\n*   NumPy\n*   Scikit-learn\n*   TensorFlow\n*   Building end-to-end data pipelines\n*   Predictive modeling\n*   AI/ML solutions development and deployment\n*   AI agent development\n*   Robotics simulation (using frameworks like ManiSkill3)\n*   Voice-controlled agents (using OpenAI and Gemini APIs)\n*   AI model development\n*   Data-driven decision-making\n*   Debugging simulation pipelines\n*   SmolVLA\n*   Brain-Computer Interface (BCI)\n*   EEG-based stress detection\n*   Mental workload analysis\n*   Signal processing\n*   EEGEOG signals collection and processing\n*   Cognitive features extraction (band power, entropy)\n*   Classification models (XGBoost, CNN, Random Forests)\n*   Real-time system implementation (using Python and Flask)\n*   Building analytical models (e.g., car price estimation, diabetes prediction, IPL match outcome forecasting)\n\n**Tools & Platforms:**\n*   OpenAI APIs\n*   Gemini APIs\n*   FastMCP server\n*   Flask\n\n**Other/Soft Skills:**\n*   Data-driven problem-solver\n*   Innovation\n*   Database & Web Technologies (mentioned as a category, but no specific technologies listed)\n*   Soft Skills (mentioned as a category)"
+    },
+    {
+      "user": "and give me his experience",
+      "agent": "Here is Yalla Abhiram Chowdary's experience:\n\n*   **AI Intern** at **Antt AI Labs** (Aug 2025 \u2013 Oct 2025)\n    *   Worked on AI agent development and robotics simulation using frameworks like ManiSkill3.\n    *   Designed and deployed voice-controlled agents using OpenAI and Gemini APIs for real-time automation tasks, and integrated a FastMCP server for intelligent pick-and-place workflows.\n    *   Gained experience in AI model development, data-driven decision-making, debugging simulation pipelines, and leveraging tools such as SmolVLA for building scalable, intelligent agent systems.\n*   **Research Intern** at **IIT Tirupati** (May 2025 - Jul 2025)\n    *   Worked on a Brain-Computer Interface (BCI) project focused on EEG-based stress detection and mental workload analysis using machine learning techniques.\n    *   Collected and processed EEGEOG signals, extracted cognitive features (band power, entropy, etc.), and developed classification models (XGBoost, CNN, RANDOM FORESTS..etc) for mental state prediction.\n    *   Gained hands-on experience in signal processing, data analysis, and real-time system implementation using Python and Flask.\n*   **Machine Learning Intern** at **InternPe** (Jan 2024 - Feb 2024)\n    *   Worked on AI/ML projects, developing predictive models for healthcare and automobile pricing using Python, Pa."
+    },
+    {
+      "user": "what u say",
+      "agent": "Based on the provided context, I can say that YALLA ABHIRAM CHOWDARY (also referred to as Y.Abhiram_Chowdary) possesses highly relevant experience for the 'eeg' project.\n\nThe 'eeg' project is described as important, utilizing technologies such as machine learning (ml), artificial intelligence (ai), and health machine eeg. YALLA ABHIRAM CHOWDARY's resume explicitly states experience as a Research Intern at IIT Tirupati where he:\n*   \"Worked on a Brain-Computer Interface (BCI) project focused on EEG-based stress detection and mental workload analysis using machine learning techniques.\"\n*   \"Collected and processed EEGEOG signals, extracted cognitive features..., and developed classification models (XGBoost, CNN, RANDOM FORESTS..etc) for mental state prediction.\"\n*   Gained hands-on experience in signal processing, data analysis, and real-time system implementation using Python and Flask.\n\nThis experience directly aligns with the technical requirements and domain of the 'eeg' project."
+    },
+    {
+      "user": "does he worked on any agents",
+      "agent": "Yes, Yalla Abhiram Chowdary worked on agents.\n\nAt Antt AI Labs, he:\n*   Worked on AI agent development and robotics simulation.\n*   Designed and deployed voice-controlled agents using OpenAI and Gemini APIs for real-time automation tasks.\n*   Gained experience in leveraging tools such as SmolVLA for building scalable, intelligent agent systems."
+    },
+    {
+      "user": "what u say",
+      "agent": "Based on the context provided, I can say that:\n\n*   There is a project named \"eeg\" described as important, utilizing technologies such as ML, AI, and health machine eeg. A link to this project is provided.\n*   There are two resumes for YALLA ABHIRAM CHOWDARY (one detailed, one a partial summary).\n*   The detailed resume for YALLA ABHIRAM CHOWDARY includes experience as a Research Intern at IIT Tirupati, where they worked on a **Brain-Computer Interface (BCI) project focused on EEG-based stress detection and mental workload analysis using machine learning techniques**. This involved collecting and processing **EEGEOG signals** and developing classification models."
+    },
+    {
+      "user": "execute his linkdin",
+      "agent": "I don't know. The context provided does not include a LinkedIn link for Y. Abhiram Chowdary.\n\n**Helpful next steps:**\n* You could try searching for \"Y. Abhiram Chowdary\" or \"Yalla Abhiram Chowdary\" directly on LinkedIn.\n* If you have a full version of his resume, a LinkedIn link might be present there."
+    },
+    {
+      "user": "execute his linkedin",
+      "agent": "I don't know his LinkedIn profile from the provided context.\n\nTo find his LinkedIn profile, you could try:\n*   Searching for \"Y. Abhiram Chowdary LinkedIn\" on Google or LinkedIn directly.\n*   Checking if a LinkedIn link is available on his full resume (if you have access to it).\n*   Looking for his name on the websites of Antt AI Labs or IIT Tirupati, where he had internships, as profiles are sometimes linked there."
+    },
+    {
+      "user": "open linkedin",
+      "agent": "I don't know. The provided context does not include a LinkedIn profile link for YALLA ABHIRAM CHOWDARY or Y.Abhiram_Chowdary, nor does it mention any LinkedIn-related information.\n\nTo find their LinkedIn profile, you would typically look for a dedicated 'Links' or 'Contact' section on their full resume, or search for 'YALLA ABHIRAM CHOWDARY LinkedIn' on a search engine like Google."
+    },
+    {
+      "user": "github of abhiram",
+      "agent": "I don't know the GitHub profile of Abhiram, as this information is not present in the provided context.\n\nTo find Abhiram's GitHub profile, you would typically look for a dedicated section in a full resume, a link on their LinkedIn profile, or a personal portfolio website."
+    },
+    {
+      "user": "execute",
+      "agent": "I don't know how to \"execute\" based on the provided context.\n\nHelpful next steps:\n*   Please clarify what you would like me to do with the given context (e.g., \"Summarize the project,\" \"Does YALLA ABHIRAM CHOWDARY have experience with EEG?\", \"List the technologies used in the 'eeg' project\")."
+    },
+    {
+      "user": "execute agriculture project of abhiram",
+      "agent": "I don't know how to execute Abhiram's agriculture project based on the provided context. The resume describes the project (\"real-time crop recommendation system using IoT sensor data\") and lists his skills, but it does not contain the actual code, data, or instructions needed to run or \"execute\" the project.\n\n**Helpful next steps:**\n*   You would need access to the project's source code, dataset, and details on its deployment environment to execute it.\n*   You could try to contact Yalla Abhiram Chowdary directly to inquire about his project portfolio or a live demonstration if available."
+    },
+    {
+      "user": "ok",
+      "agent": "I don't know.\n\nHelpful next steps: Please ask a specific question about the provided context (e.g., \"What technologies are used in the 'eeg' project?\", \"What was YALLA ABHIRAM CHOWDARY's role at IIT Tirupati?\", or \"List the skills of Y.Abhiram_Chowdary.\")."
+    },
+    {
+      "user": "hey",
+      "agent": "Hello! How can I help you today? Please ask a specific question about the provided context."
+    },
+    {
+      "user": "do u know",
+      "agent": "Gemini error: Server disconnected without sending a response."
+    },
+    {
+      "user": "hi",
+      "agent": "Hello! How can I help you today? I have information about the 'eeg' project and two resumes for YALLA ABHIRAM CHOWDARY. What would you like to know?"
+    },
+    {
+      "user": "give me his skills and his projects",
+      "agent": "Here are Abhiram Chowdary's skills and projects based on the provided resume:\n\n**Skills:**\n*   **Programming Languages:** Python\n*   **Machine Learning & Data Science:** Machine learning, data analytics, AI-driven solutions, Pandas, NumPy, Scikit-learn, TensorFlow, data preprocessing, feature engineering, model optimization, signal processing, classification models (XGBoost, CNN, Random Forests), AI model development, data-driven decision-making.\n*   **Database & Web Technologies:** Flask, FastMCP server\n*   **Tools & Platforms:** ManiSkill3, OpenAI APIs, Gemini APIs, SmolVLA\n*   **Soft Skills:** (General category mentioned, but no specific examples listed)\n\n**Projects:**\n\n**From Summary (General Projects):**\n*   Real-time crop recommendation system (using IoT sensor data)\n*   Facial emotion recognition model (for personalized music recommendations)\n*   Analytical models for car price estimation\n*   Diabetes prediction\n*   IPL match outcome forecasting\n\n**From Experience (Internship Projects):**\n*   **AI Intern at Antt AI Labs:**\n    *   AI agent development and robotics simulation.\n    *   Designed and deployed voice-controlled agents for real-time automation tasks.\n    *   Integrated a FastMCP server for intelligent pick-and-place workflows.\n*   **Research Intern at IIT Tirupati:**\n    *   Brain-Computer Interface (BCI) project focused on EEG-based stress detection and mental workload analysis using machine learning techniques.\n*   **Machine Learning Intern at InternPe:**\n    *   Developed predictive models for healthcare and automobile pricing."
+    },
+    {
+      "user": "give me karthikeya skills and his projects",
+      "agent": "Karthikeya Varma's skills include:\n*   Machine Learning\n*   Deep Learning\n*   Generative AI\n*   CNN-LSTM\n*   YOLOv8\n*   LLM fine-tuning\n*   Python\n*   TensorFlow\n*   Keras\n*   LangChain\n*   Hugging Face\n\nKarthikeya Varma's projects include:\n*   GPT Forge (SLM)\n*   Medical insight extraction\n*   Agricultural classification\n*   High-performing helmet detection"
+    },
+    {
+      "user": "karthikeya projects",
+      "agent": "Karthikeya Varma's projects include:\n*   GPT Forge (SLM)\n*   Medical insight extraction\n*   Agricultural classification\n*   High-performing helmet detection"
+    },
+    {
+      "user": "who is best for job abhiram or karthikeya in all aspects ,if i want to hire",
+      "agent": "I don't know. The context provided only contains information about Yalla Abhiram Chowdary and does not mention anyone named Karthikeya.\n\nTo determine who is best for the job, you would need to provide the resume or relevant information for Karthikeya as well, so a comparison can be made based on their skills, experience, and qualifications."
+    },
+    {
+      "user": "u know karthikeya i uplolded his resume u have abhiram dat give me based on this",
+      "agent": "I have the resume for YALLA ABHIRAM CHOWDARY.\n\nKarthikeya is not mentioned in the provided context.\n\nTo help you, please tell me what specific information you would like to know about YALLA ABHIRAM CHOWDARY from the resume. For example, you could ask about his skills, experience, or project details."
+    },
+    {
+      "user": "what u say",
+      "agent": "The context provides information about:\n\n*   **A project named \"eeg\"**: It's described as \"imp\", uses technologies like ML, AI, and health machine eeg, and has a link: https://neurocruxalitix.onrender.com/.\n*   **Two resumes for YALLA ABHIRAM CHOWDARY (also referred to as Y.Abhiram_Chowdary)**:\n    *   **Summary**: Aspiring Data Scientist with strong skills in machine learning, data analytics, and AI, proficient in Python, Pandas, NumPy, Scikit-learn, and TensorFlow. Experience in building data pipelines and predictive models, including a real-time crop recommendation system, facial emotion recognition, car price estimation, diabetes prediction, and IPL match outcome forecasting.\n    *   **Skills**: Programming Languages; Machine Learning & Data Science; Database & Web Technologies; Tools & Platforms; Soft Skills.\n    *   **Experience**:\n        *   **AI Intern at Antt AI Labs** (Aug 2025 \u2013 Oct 2025): Developed AI agents and worked on robotics simulation, voice-controlled agents, and intelligent pick-and-place workflows.\n        *   **Research Intern at IIT Tirupati** (May 2025 - Jul 2025): Worked on a Brain-Computer Interface (BCI) project focusing on EEG-based stress detection and mental workload analysis using ML (XGBoost, CNN, RANDOM FORESTS). Gained experience in signal processing and real-time system implementation.\n        *   **Machine Learning Intern at InternPe** (Jan 2024 - Feb 2024): Developed predictive models for healthcare and automobile pricing using Python, Pandas, and Scikit-learn.\n\nPlease let me know if you have a specific question about the project or Abhiram's resume."
+    },
+    {
+      "user": "who is best for machine learning",
+      "agent": "I don't know who is \"best\" for machine learning, as \"best\" is subjective and depends on the specific requirements of a role or project. Both individuals demonstrate strong skills and experience in machine learning.\n\nTo determine who might be a better fit, consider the following:\n\n*   **M.S.R.KarthikeyaVarma** specializes in Machine Learning, Deep Learning, and Generative AI, with practical experience in CNN-LSTM, YOLOv8, LLM fine-tuning, and projects like GPT Forge (SLM) and medical insight extraction. He's proficient in Python, TensorFlow, Keras, LangChain, and Hugging Face.\n*   **YALLA ABHIRAM CHOWDARY** has a strong foundation in machine learning, data analytics, and AI-driven solutions, with experience in real-time crop recommendation, facial emotion recognition, and projects involving Brain-Computer Interfaces (BCI) using XGBoost, CNN, and Random Forests. He's skilled in Python, Pandas, NumPy, Scikit-learn, and TensorFlow.\n\n**Helpful next steps:**\n1.  **Define your specific needs:** What type of machine learning project or role are you hiring for? Is it more focused on deep learning, generative AI, classical ML, or signal processing?\n2.  **Review specific project experience:** Look at the projects each candidate has completed and see which align most closely with your requirements.\n3.  **Compare specific tools and frameworks:** Check if their listed proficiencies match the tools you primarily use."
+    },
+    {
+      "user": "who is best for deep learnig works",
+      "agent": "Based on the context provided:\n\n**M.S.R.KarthikeyaVarma** explicitly states he is an \"AI professional specializing in Machine Learning, Deep Learning, and Generative AI.\" His resume highlights expertise in specific deep learning techniques like CNN-LSTM, YOLOv8, and LLM fine-tuning, and proficiency in deep learning frameworks such as TensorFlow, Keras, LangChain, and Hugging Face. His projects also demonstrate practical application of these skills.\n\nWhile **YALLA ABHIRAM CHOWDARY** has experience with machine learning, data analytics, and AI-driven solutions, and mentions using TensorFlow and CNNs (which are deep learning techniques) in his experience, Karthikeya Varma's resume more directly and comprehensively emphasizes a specialization in deep learning.\n\nTherefore, **M.S.R.KarthikeyaVarma** appears to be best suited for deep learning works based on the explicit specialization and detailed deep learning skills mentioned in his resume."
+    },
+    {
+      "user": "hi",
+      "agent": "Hello! How can I assist you today regarding the \"eeg\" project or YALLA ABHIRAM CHOWDARY's resume?"
+    },
+    {
+      "user": "can u execute for me",
+      "agent": "I don't know what you would like me to execute. I am an AI assistant and cannot perform actions or execute commands in the real world.\n\nPlease clarify your request. If you're asking me to do something with the provided resumes (like summarize, compare, or extract specific information), please rephrase your query."
+    },
+    {
+      "user": "hi",
+      "agent": "Hello! You've provided information about Yalla Abhiram Chowdary's resume and a project related to EEG.\n\nHow can I help you with this information? For example, I can tell you about:\n*   Abhiram's experience related to EEG.\n*   His skills.\n*   Projects he has worked on."
+    },
+    {
+      "user": "rffid",
+      "agent": "I don't know what \"rffid\" refers to based on the provided context.\n\nHelpful next steps:\n* Please clarify what \"rffid\" means or refers to.\n* If it's an acronym, please spell it out.\n* If it's a technology or skill, please provide its full name or a description."
+    },
+    {
+      "user": "yes",
+      "agent": "I don't know what specific information you are looking for with the query \"yes\".\n\nTo help me provide a relevant answer, please tell me what information you are trying to find, for example:\n*   \"What projects has Yalla Abhiram Chowdary worked on related to EEG?\"\n*   \"What technologies is the 'eeg' project using?\"\n*   \"Does Yalla Abhiram Chowdary have experience in Brain-Computer Interface (BCI)?\""
+    },
+    {
+      "user": "rgukt means",
+      "agent": "I don't know what \"rgukt\" means, as this information is not present in the provided context.\n\nHelpful next steps:\n* You could search for \"rgukt\" online.\n* If \"rgukt\" refers to an institution or organization, you might check if YALLA ABHIRAM CHOWDARY's full resume or academic details (where he is pursuing his B.Tech) are available elsewhere, as that might provide context."
+    },
+    {
+      "user": "hi",
+      "agent": "Hello! How can I help you with the provided project and resume information?"
+    },
+    {
+      "user": "SUMMARY",
+      "agent": "Aspiring Data Scientist with a strong foundation in machine learning, data analytics, and AI-driven solutions. Skilled in Python, Pandas, NumPy, Scikit-learn, and TensorFlow, with hands-on experience in building end-to-end data pipelines and predictive models. Successfully developed and deployed ML solutions such as a real-time crop recommendation system using IoT sensor data, and a facial emotion recognition model for personalized music recommendations. Built analytical models for car price estimation, diabetes prediction, and IPL match outcome forecasting\u2014demonstrating a data-centric approach to solving real-world problems in agriculture, healthcare, and sports analytics."
+    },
+    {
+      "user": "CERTIFICATIONS OF HIM",
+      "agent": "I don't know the certifications of him.\n\n**Helpful next steps:**\n* Please specify which \"him\" you are referring to, as the context includes information about Yalla Abhiram Chowdary and M.S.R. Karthikeya Varma.\n* Review the full resumes for Yalla Abhiram Chowdary and M.S.R. Karthikeya Varma, as the provided summaries and partial descriptions may not include all details like certifications."
+    },
+    {
+      "user": "HI",
+      "agent": "Hello! How can I help you with the provided context today?"
+    },
+    {
+      "user": "OK GIVE ME RGUKT",
+      "agent": "I don't know. The provided context does not contain any information about \"RGUKT\".\n\nIf you have more context related to RGUKT, please provide it, and I can try to answer your question."
+    },
+    {
+      "user": "linkdein of yall abhiram chowdary",
+      "agent": "I don't know. The provided context does not include the LinkedIn profile for Yalla Abhiram Chowdary.\n\n**Helpful next steps:**\n*   You could try searching for \"Yalla Abhiram Chowdary\" directly on LinkedIn.\n*   You could perform a general web search for \"Yalla Abhiram Chowdary LinkedIn\" to see if it's publicly available."
+    },
+    {
+      "user": "linkedin of yall abhiram chowdary",
+      "agent": "I don't know. The provided context does not include Yalla Abhiram Chowdary's LinkedIn profile.\n\nHelpful next steps:\n*   You could try searching for \"Yalla Abhiram Chowdary\" directly on LinkedIn.\n*   Check the full resume for a LinkedIn URL in the contact information section.\n*   Perform a general web search for \"Yalla Abhiram Chowdary LinkedIn\"."
+    },
+    {
+      "user": "execute",
+      "agent": "I don't know what you'd like me to execute. Please provide a clear question or a specific task you want me to perform using the provided context.\n\nFor example, you could ask:\n*   \"Does YALLA ABHIRAM CHOWDARY have experience with EEG projects?\"\n*   \"What technologies is the 'eeg' project using?\"\n*   \"Summarize YALLA ABHIRAM CHOWDARY's experience with Brain-Computer Interfaces.\""
+    },
+    {
+      "user": "what u say finally",
+      "agent": "The provided context describes an \"eeg\" project that is important and utilizes machine learning and AI, with a deployment link hosted on Render.\n\nMUDUNURI SEETA RAMA KARTHIKEYA VARMA has strong skills in Machine Learning and Deep Learning, including CNN and LSTM models, hyperparameter optimization, and Generative AI. He is also familiar with the Render tool, which is relevant to the project's deployment platform.\n\nY.Abhiram_Chowdary is an aspiring Data Engineer and Machine Learning Enthusiast. His summary explicitly states experience with \"EEG-based stress detection\" projects and proficiency in Python, Generative AI (LLMs, RAG), and ML/DL frameworks.\n\nIn conclusion, both individuals possess relevant machine learning and AI skills for the \"eeg\" project. Y.Abhiram_Chowdary has direct project experience with EEG-based applications, while MUDUNURI SEETA RAMA KARTHIKEYA VARMA demonstrates strong technical depth in applicable ML/DL methodologies and familiarity with the project's deployment environment."
+    },
+    {
+      "user": "give me one name so i will hire",
+      "agent": "Based on the context, Y.Abhiram_Chowdary's summary directly mentions \"EEG-based stress detection\" and experience developing \"BCIs\" (Brain-Computer Interfaces), which aligns perfectly with your \"eeg\" project focused on \"health machine eeg.\"\n\n**Name to hire:** Y.Abhiram_Chowdary\n\n**Next steps:**\n* Request Y.Abhiram_Chowdary's detailed experience section to understand the specifics of his EEG-related projects and contributions.\n* Conduct an interview to further assess his technical depth and problem-solving skills, particularly concerning EEG data processing and analysis."
+    },
+    {
+      "user": "what u say finally",
+      "agent": "Finally, YALLA ABHIRAM CHOWDARY's research internship experience at IIT Tirupati is highly relevant to the \"eeg\" project. He developed a single-channel EEG-based framework for real-time mental state and stress classification, extracted neurophysiological features, built ensemble models achieving 85% accuracy, and deployed the system via Flask for live EEG prediction and visualization, directly aligning with the project's focus on ML, AI, and health machine EEG.\n\nMUDUNURI SEETA RAMA KARTHIKEYA VARMA possesses strong general machine learning and deep learning skills, including familiarity with tools like Render (which is used in the project's link). However, their described experience does not directly involve EEG or biomedical applications."
+    },
+    {
+      "user": "what u say finally in data science",
+      "agent": "I don't know the answer to \"what you say finally in data science\" based on the provided resumes. The context contains information about the skills and experience of two individuals, YALLA ABHIRAM CHOWDARY and MUDUNURI SEETA RAMA KARTHIKEYA VARMA, in fields related to data science, machine learning, and AI.\n\nTo help me answer, please clarify your question. Are you looking for:\n*   A summary of data science skills common between these two individuals?\n*   A general statement about data science from the perspective of an AI, based on their resumes?\n*   Something else entirely?"
+    },
+    {
+      "user": "which skills requie to become data science",
+      "agent": "I don't know. The provided context contains information about the skills and experience of two individuals (YALLA ABHIRAM CHOWDARY and MUDUNURI SEETA RAMA KARTHIKEYA VARMA) but does not list the general skills required to become a data scientist.\n\n**Helpful next steps:**\n*   You could look at job descriptions for Data Scientist roles on various career platforms to understand common requirements.\n*   Consult career guides or educational resources focused on data science pathways."
+    },
+    {
+      "user": "contact of abhiram",
+      "agent": "I don't know Abhiram's contact information.\n\n**Helpful next steps:** The provided context is a resume snippet and does not include contact details such as an email address, phone number, or social media links. You would need a more complete resume or a separate contact section to find this information."
+    },
+    {
+      "user": "hi",
+      "agent": "Hello! I have information about two resumes and a project. How can I assist you today? I can help you find information about the individuals, their skills, experience, or details about the 'eeg' project."
+    }
+  ],
+  "Resume": [
+    {
+      "user": "give me all details of YALLA ABHIRAM CHOWDARY's resume",
+      "agent": "Aspiring Data Scientist with a strong foundation in machine learning, data analytics, and AI-driven solutions. Skilled in Python, Pandas, NumPy, Scikit-learn, and TensorFlow, with hands-on experience in building end-to-end data pipelines and predictive models. Successfully developed and deployed ML solutions such as a real-time crop recommendation system using IoT sensor data, and a facial emotion recognition model for personalized music recommendations. Built analytical models for car price estimation, diabetes prediction, and IPL match outcome forecasting\u2014demonstrating a data-centric approach to solving real-world problems in agriculture, healthcare, and sports analytics."
+    },
+    {
+      "user": "give me details of YALLA ABHIRAM CHOWDARY",
+      "agent": "Aspiring Data Scientist with a strong foundation in machine learning, data analytics, and AI-driven solutions. Skilled in Python, Pandas, NumPy, Scikit-learn, and TensorFlow, with hands-on experience in building end-to-end data pipelines and predictive models. Successfully developed and deployed ML solutions such as a real-time crop recommendation system using IoT sensor data, and a facial emotion recognition model for personalized music recommendations. Built analytical models for car price estimation, diabetes prediction, and IPL match outcome forecasting\u2014demonstrating a data-centric approach to solving real-world problems in agriculture, healthcare, and sports analytics."
+    },
+    {
+      "user": "education details of YALLA ABHIRAM CHOWDARY",
+      "agent": "Bachelor of Technology (Electronics and Communication Engineering), Rajiv Gandhi University of Knowledge Technologies (RGUKT), RK Valley, CGPA: 8.4, Expected Graduation: 2026\nBachelor of Technology (Minor Degree) (Machine Learning), Rajiv Gandhi University of Knowledge Technologies (RGUKT), RK Valley\nPre-University Course, Rajiv Gandhi University of Knowledge Technologies (RGUKT), RK Valley, CGPA: 9.8, 2020 \u2013 2022\nSSC (10th Grade), APMS School, Ramagiri, Andhra Pradesh, CGPA: 10.0, 2019 \u2013 2020"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY's resume execute his linkedin",
+      "agent": "Opened LinkedIn profile: https://linkedin.com/in/yalla-abhiram-chowdary/"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY's resume execute his github",
+      "agent": "Opened GitHub profile: https://github.com/y-abhiram"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY's resume execute his linkedin",
+      "agent": "Opened LinkedIn profile: https://linkedin.com/in/yalla-abhiram-chowdary/"
+    },
+    {
+      "user": "from YALLA ABHIRAM CHOWDARY's resume execute open links of linkedina nd github",
+      "agent": "Opened LinkedIn profile: https://linkedin.com/in/yalla-abhiram-chowdary/"
+    },
+    {
+      "user": "from YALLA ABHIRAM CHOWDARY's resume execute open links of linkedin and github i want to execute both",
+      "agent": "Opened LinkedIn profile: https://linkedin.com/in/yalla-abhiram-chowdary/"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY show his skills",
+      "agent": "Python, C, C++, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Data Preprocessing, Predictive Analytics, Machine Learning Models, SQL, MongoDB, Flask, HTML, CSS, VScode, Jupyter Notebook, GitHub, Excel, Google Colab, Problem-Solving, Teamwork, Good Communication, Research, Innovation"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY linkedin execute it",
+      "agent": "Opened LinkedIn profile: https://linkedin.com/in/yalla-abhiram-chowdary/"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY github execute it",
+      "agent": "Opened GitHub profile: https://github.com/y-abhiram"
+    },
+    {
+      "user": "execute  YALLA ABHIRAM CHOWDARY github",
+      "agent": "Opened GitHub profile: https://github.com/y-abhiram"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY linkedin and any certificates",
+      "agent": "LinkedIn: https://linkedin.com/in/yalla-abhiram-chowdary/"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY  certificates achievements",
+      "agent": "Inspire Award - Awarded by the Ministry of Science & Technology for innovation in science., Essay & Painting Competition Winner - Recognized by the Ministry of Water & Resources., Technical Champion - Multiple technical quiz wins in college and school., Winner at College-Level Hackathons - Developed AI-powered and IoT-based solutions, including AI-Based Strabismus Detection and Smart Agricultural Advisory System."
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY certificates",
+      "agent": "I don't know. The provided resume context for YALLA ABHIRAM CHOWDARY does not mention any certificates.\n\nTo find information about certificates, you would typically look for a dedicated \"Certifications\" or \"Awards\" section on a resume or a professional profile like LinkedIn."
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY Certifications",
+      "agent": "Artificial Intelligence Fundamentals \u2013 IBM SkillsBuild, Python for Data Science \u2013 Cognitive Class, C, C++, MySQL, DSA, MATLAB \u2013 Great Learning, Science Exhibition \u2013 Timbaktu Collective, Game Development using Pygame \u2013 GUVI, Data Mining for Data Science \u2013 Mind Luster, Internal Smart India Hackathon 2024"
+    },
+    {
+      "user": "do u know yalla abhiram chowdary",
+      "agent": "Yes, I have information about Yalla Abhiram Chowdary based on the resume provided in the context.\n\nThe context contains details about their:\n*   Summary as an aspiring Data Scientist\n*   Skills in programming languages, machine learning, databases, tools, and soft skills\n*   Experience as an AI Intern at Antt AI Labs, Research Intern at IIT Tirupati, and Machine Learning Intern at InternPe."
+    },
+    {
+      "user": "linkedin of yalla abhiram chowdary",
+      "agent": "LinkedIn: https://linkedin.com/in/yalla-abhiram-chowdary/"
+    },
+    {
+      "user": "execute of  linkedin of yalla abhiram chowdary",
+      "agent": "Opened LinkedIn profile: https://linkedin.com/in/yalla-abhiram-chowdary/"
+    },
+    {
+      "user": "execute github of yalla abhiram chowdary",
+      "agent": "Opened GitHub profile: https://github.com/y-abhiram"
+    },
+    {
+      "user": "execute his projects of yalla abhiram chowdary",
+      "agent": "{'name': 'EEG-Based Stress Detection and Mental Workload Monitoring System', 'description': 'Developed a real-time web application using Flask for monitoring cognitive stress levels from single-channel EEG data. Implemented signal processing pipelines, extracted spectral features (e.g., band power, entropy), and built ML models to classify stress states and sleep disorders. Integrated data visualization and live feedback, contributing to research in Brain-Computer Interfaces (BCI) and mental health analytics.'}\n\n{'name': 'AI-Powered Crop Recommendation and Smart Agricultural Advisory System', 'description': 'Designed a web-based platform integrating AI and IoT sensors to evaluate real-time soil and climate conditions. Delivered AI-driven insights for optimal crop selection, efficient irrigation management, and market trend forecasting to enhance agricultural productivity and profitability.'}\n\n{'name': 'ExpressTune: AI Music Player Based on Facial Expressions', 'description': 'Engineered a system utilizing OpenCV and machine learning to recognize facial emotions and curate music playlists accordingly, enhancing personalized listening experiences.'}\n\n{'name': 'AI-Powered Predictive Analytics Models', 'description': 'Created ML-based forecasting tools for pricing trends, healthcare evaluation, and sports performance analytics. Developed a Car Price Estimation Model employing regression techniques to predict vehicle costs. Designed a Diabetes Risk Assessment System utilizing health indicators for early detection. Implemented an IPL Match Outcome Predictor analyzing historical data and player statistics.'}"
+    },
+    {
+      "user": "execute of yalla abhiram chowdary",
+      "agent": "Yalla Abhiram Chowdary has executed the following:\n\n*   **AI Agent Development and Robotics Simulation:** Worked on AI agent development and robotics simulation using frameworks like ManiSkill3 at Antt AI Labs. Designed and deployed voice-controlled agents using OpenAI and Gemini APIs for real-time automation tasks, and integrated a FastMCP server for intelligent pick-and-place workflows.\n*   **EEG-based Stress Detection:** Worked on a Brain-Computer Interface (BCI) project at IIT Tirupati, focusing on EEG-based stress detection and mental workload analysis. Collected and processed EEG/EOG signals, extracted cognitive features, and developed classification models (XGBoost, CNN, Random Forests) for mental state prediction, including real-time system implementation using Python and Flask.\n*   **Predictive Model Development:** Developed predictive models for healthcare and automobile pricing using Python at InternPe. He also built analytical models for car price estimation, diabetes prediction, and IPL match outcome forecasting.\n*   **Deployment of ML Solutions:** Successfully developed and deployed a real-time crop recommendation system using IoT sensor data and a facial emotion recognition model for personalized music recommendations."
+    },
+    {
+      "user": "M.S.R.KarthikeyaVarmaResume  skills",
+      "agent": "  "
+    },
+    {
+      "user": "give M.S.R.KarthikeyaVarmaResume skills",
+      "agent": "  "
+    },
+    {
+      "user": "M.S.R.KarthikeyaVarma",
+      "agent": "Gemini error: Server disconnected without sending a response."
+    },
+    {
+      "user": "do u know M.S.R.KarthikeyaVarma",
+      "agent": "Gemini error: Server disconnected without sending a response."
+    },
+    {
+      "user": "M.S.R.KarthikeyaVarma do u know",
+      "agent": "Yes, I have information about M.S.R.KarthikeyaVarma.\n\nHe is an AI professional specializing in Machine Learning, Deep Learning, and Generative AI. He holds internship experience from IIT Tirupati and Blackbuck Engineers, with expertise in CNN-LSTM, YOLOv8, and LLM fine-tuning. He is proficient in Python, TensorFlow, Keras, LangChain, and Hugging Face for model development and deployment. His key achievements include improving model accuracy by 15%, reducing GPU memory by 30%, and decreasing reliance on physical sensors by 30-40%. He has demonstrated practical application through projects like GPT Forge (SLM), medical insight extraction, agricultural classification, and high-performing helmet detection."
+    },
+    {
+      "user": "M.S.R.KarthikeyaVarma",
+      "agent": "Here's a summary of M.S.R.KarthikeyaVarma's resume:\n\nKarthikeya Varma is an AI professional specializing in Machine Learning, Deep Learning, and Generative AI.\nHe holds internship experience from IIT Tirupati and Blackbuck Engineers, with expertise in CNN-LSTM, YOLOv8, and LLM fine-tuning.\nProficient in Python, TensorFlow, Keras, LangChain, and Hugging Face for model development and deployment.\nKey achievements include improving model accuracy by 15%, reducing GPU memory by 30%, and decreasing reliance on physical sensors by 30-40%.\nDemonstrated practical application through projects like GPT Forge (SLM), medical insight extraction, agricultural classification, and high-performing helmet detection."
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY virsus  M.S.R.KarthikeyaVarma who is best skills",
+      "agent": "{'Programming Languages': 'Python, C and C++', 'Machine Learning & Data Science': 'Pandas, NumPy, Matplotlib, seaborn, Scikit-learn, TensorFlow, Data Preprocessing, Predictive Analytics and some Machine Learning Models', 'Database & Web Technologies': 'SQL, MongoDB, Flask, HTML, CSS', 'Tools & Platforms': 'VScode, Jupyter Notebook, GitHub, Excel, Google Colab', 'Soft Skills': 'Problem-Solving, Teamwork, Good Communication, Research, Innovation'}"
+    },
+    {
+      "user": "give me YALLA ABHIRAM CHOWDARY skills and M.S.R.KarthikeyaVarma skills separetly",
+      "agent": "{'Programming Languages': 'Python, C and C++', 'Machine Learning & Data Science': 'Pandas, NumPy, Matplotlib, seaborn, Scikit-learn, TensorFlow, Data Preprocessing, Predictive Analytics and some Machine Learning Models', 'Database & Web Technologies': 'SQL, MongoDB, Flask, HTML, CSS', 'Tools & Platforms': 'VScode, Jupyter Notebook, GitHub, Excel, Google Colab', 'Soft Skills': 'Problem-Solving, Teamwork, Good Communication, Research, Innovation'}"
+    },
+    {
+      "user": "M.S.R.KarthikeyaVarma skills separetly",
+      "agent": "  "
+    },
+    {
+      "user": "give me YALLA ABHIRAM CHOWDARY skills",
+      "agent": "{'Programming Languages': 'Python, C and C++', 'Machine Learning & Data Science': 'Pandas, NumPy, Matplotlib, seaborn, Scikit-learn, TensorFlow, Data Preprocessing, Predictive Analytics and some Machine Learning Models', 'Database & Web Technologies': 'SQL, MongoDB, Flask, HTML, CSS', 'Tools & Platforms': 'VScode, Jupyter Notebook, GitHub, Excel, Google Colab', 'Soft Skills': 'Problem-Solving, Teamwork, Good Communication, Research, Innovation'}"
+    },
+    {
+      "user": "give me M.S.R.KarthikeyaVarma skills",
+      "agent": "  "
+    },
+    {
+      "user": "does YALLA ABHIRAM CHOWDARY studiend in Rajiv Gandhi University of Knowledge Technologies",
+      "agent": "I don't know.\n\nThe provided context states that YALLA ABHIRAM CHOWDARY is a \"B.Tech student (2026)\" but does not mention the name of the university or institution where they are studying.\n\nTo find this information, you would need to refer to a more complete version of their resume or profile that includes their educational background."
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY  experience",
+      "agent": "{'title': 'AI Intern', 'company': 'Antt AI Labs', 'dates': 'Aug 2025 \u2013 Oct 2025', 'description': 'Worked on AI agent development and robotics simulation using frameworks like ManiSkill3. Designed and deployed voice-controlled agents using OpenAI and Gemini APIs for real-time automation tasks, and integrated a FastMCP server for intelligent pick-and-place workflows. Gained experience in AI model development, data-driven decision-making, debugging simulation pipelines, and leveraging tools such as SmolVLA for building scalable, intelligent agent systems.'}\n\n{'title': 'Research Intern', 'company': 'IIT Tirupati', 'dates': 'May 2025 - Jul 2025', 'description': 'Worked on a Brain-Computer Interface (BCI) project focused on EEG-based stress detection and mental workload analysis using machine learning techniques. Collected and processed EEGEOG signals, extracted cognitive features (band power, entropy, etc.), and developed classification models (XGBoost, CNN, RANDOM FORESTS..etc) for mental state prediction. Gained hands-on experience in signal processing, data analysis, and real-time system implementation using Python and Flask.'}\n\n{'title': 'Machine Learning Intern', 'company': 'InternPe', 'dates': 'Jan 2024 - Feb 2024', 'description': 'Worked on AI/ML projects, developing predictive models for healthcare and automobile pricing using Python, Pandas, and Scikit-learn. Gained experience in data preprocessing, feature engineering, and model optimization while contributing to product development and research.'}"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY SKILLS",
+      "agent": "{'Programming Languages': 'Python, C and C++', 'Machine Learning & Data Science': 'Pandas, NumPy, Matplotlib, seaborn, Scikit-learn, TensorFlow, Data Preprocessing, Predictive Analytics and some Machine Learning Models', 'Database & Web Technologies': 'SQL, MongoDB, Flask, HTML, CSS', 'Tools & Platforms': 'VScode, Jupyter Notebook, GitHub, Excel, Google Colab', 'Soft Skills': 'Problem-Solving, Teamwork, Good Communication, Research, Innovation'}"
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY CERTIFICATIONS",
+      "agent": "Artificial Intelligence Fundamentals \u2013 IBM SkillsBuild, Python for Data Science \u2013 Cognitive Class, C, C++, MySQL, DSA, MATLAB \u2013 Great Learning, Science Exhibition \u2013 Timbaktu Collective, Game Development using Pygame \u2013 GUVI, Data Mining for Data Science \u2013 Mind Luster, Internal Smart India Hackathon 2024"
+    },
+    {
+      "user": "M.S.R. Karthikeya Varma CERTIFICATIONS",
+      "agent": "No certifications."
+    },
+    {
+      "user": "M.S.R. Karthikeya Varma EXPERIENCE",
+      "agent": "No experience found."
+    },
+    {
+      "user": "MUDUNURI SEETA RAMA KARTHIKEYA VARMA linkedin account",
+      "agent": "I don't know the LinkedIn account for MUDUNURI SEETA RAMA KARTHIKEYA VARMA based on the provided context.\n\nHelpful next steps:\n* You could try searching for \"MUDUNURI SEETA RAMA KARTHIKEYA VARMA\" on LinkedIn directly.\n* A general web search (e.g., Google) for the name might also reveal a LinkedIn profile or other professional links."
+    },
+    {
+      "user": "linkedin of  MUDUNURI SEETA RAMA KARTHIKEYA VARMA",
+      "agent": "I don't know.\n\nHelpful next steps:\n* You could try searching for \"MUDUNURI SEETA RAMA KARTHIKEYA VARMA\" on LinkedIn directly.\n* You could also use a search engine (like Google) with the name \"MUDUNURI SEETA RAMA KARTHIKEYA VARMA LinkedIn\" to see if it appears."
+    },
+    {
+      "user": "linkedin of yalla abhiram chowdary",
+      "agent": "I don't know the LinkedIn profile of Yalla Abhiram Chowdary.\n\n**Helpful next steps:**\n*   You can try searching for \"Yalla Abhiram Chowdary\" directly on LinkedIn.\n*   You could also use a search engine (like Google) and include \"LinkedIn\" in your search query (e.g., \"Yalla Abhiram Chowdary LinkedIn\")."
+    },
+    {
+      "user": "Yalla Abhiram Chowdary LinkedIn",
+      "agent": "I don't know. The context provided does not include Yalla Abhiram Chowdary's LinkedIn profile.\n\n**Helpful next steps:**\nYou could try searching for \"Yalla Abhiram Chowdary\" on LinkedIn or a search engine like Google to find their profile."
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY",
+      "agent": "Here's a summary of YALLA ABHIRAM CHOWDARY's resume:\n\n1.  Yalla Abhiram Chowdary is an aspiring Data Scientist and B.Tech student (2026) with a strong foundation in ML, AI, and data analytics.\n2.  Proficient in Python, Pandas, NumPy, Scikit-learn, and TensorFlow, with experience in building end-to-end data pipelines.\n3.  His experience includes AI agent development at Antt AI Labs, EEG-based stress detection at IIT Tirupati, and predictive modeling at InternPe.\n4.  He has successfully developed and deployed AI/ML solutions, including a real-time crop recommendation system and facial emotion recognition.\n5.  A data-driven problem-s"
+    },
+    {
+      "user": "MUDUNURI SEETA RAMA KARTHIKEYA VARMA",
+      "agent": "**MUDUNURI SEETA RAMA KARTHIKEYA VARMA**\n\n**Summary:**\n(Summary not provided in the given context for this specific resume.)\n\n**Skills:**\nSupervised & Unsupervised Learning; Ensemble Learning; Model Evaluation & Tuning; ANN; CNN; LSTM; Transfer Learning Hyperparameter Optimization; Quantization; LLMs / SLMs Fine-Tuning; RAG; LangChain; Pandas; NumPy; Matplotlib; Seaborn; SciPy; Scikit Learn; Keras; TensorFlow; OpenCV; Beautiful Soup; Hugging Face; Power BI; Render; Docker; C; Python; Java; C++; Depth-oriented; Pragmatic; Self-motivated\n\n**Experience:**\n*   **Machine Learning Intern**\n    *   Company: IIT TIRUPATI\n    *   Dates: May 2025 \u2013 June 2025\n    *   Location: Tirupati\n    *   Description:\n        *   Designed and implemented a hybrid CNN-LSTM model to predict milling forces from spindle current signals, reducing reliance on physical sensors by 30\u201340%.\n        *   Conducted systematic hyperparameter tuning, exploring variations in kernel size, filters, LSTM cell counts, and learning rates, leading to a 15% increase in model accuracy.\n        *   Trained a robust neural network to model non-linear and delayed relationships between current and force signals with Keras.\n*   **Generative AI Intern**\n    *   Company: Blackbuck Engineers\n    *   Dates: June 2024 - July 2024\n    *   Location: Online\n    *   Description:\n        *   Built and trained a model on the CIFAR-10 dataset, achieving ~85% test accuracy, while experimenting with architecture variations to improve performance.\n        *   Enhanced model robustness using normalization, data augmentation, dropout, and batch normalization reducing overfitting by 20\u201325%."
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY",
+      "agent": "Yalla Abhiram Chowdary is an aspiring Data Scientist and B.Tech student (2026) with a strong foundation in ML, AI, and data analytics.\nProficient in Python, Pandas, NumPy, Scikit-learn, and TensorFlow, with experience in building end-to-end data pipelines.\nHis experience includes AI agent development at Antt AI Labs, EEG-based stress detection at IIT Tirupati, and predictive modeling at InternPe.\nHe has successfully developed and deployed AI/ML solutions, including a real-time crop recommendation system and facial emotion recognition.\nHe demonstrates a data-driven approach to solving real-world problems."
+    },
+    {
+      "user": "MUDUNURI SEETA RAMA KARTHIKEYA VARMA",
+      "agent": "Here is the information for MUDUNURI SEETA RAMA KARTHIKEYA VARMA:\n\n**Summary:** (Not explicitly provided in the context, but implied by skills and experience)\n\n**Skills:**\n*   **Machine Learning:** Supervised & Unsupervised Learning, Ensemble Learning, Model Evaluation & Tuning\n*   **Deep Learning:** ANN, CNN, LSTM, Transfer Learning Hyperparameter Optimization\n*   **Generative AI:** Quantization, LLMs / SLMs Fine-Tuning, RAG\n*   **Libraries and Frameworks:** LangChain, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit Learn, Keras, TensorFlow, OpenCV, Beautiful Soup\n*   **Tools:** Hugging Face, Power BI, Render, Docker\n*   **Programming Languages:** C, Python, Java, C++\n*   **Soft Skills:** Depth-oriented, Pragmatic, Self-motivated\n\n**Experience:**\n*   **Machine Learning Intern**\n    *   **Company:** IIT TIRUPATI\n    *   **Dates:** May 2025 \u2013 June 2025\n    *   **Location:** Tirupati\n    *   **Description:** Designed and implemented a hybrid CNN-LSTM model to predict milling forces from spindle current signals, reducing reliance on physical sensors by 30\u201340%. Conducted systematic hyperparameter tuning, exploring variations in kernel size, filters, LSTM cell counts, and learning rates, leading to a 15% increase in model accuracy. Trained a robust neural network to model non-linear and delayed relationships between current and force signals with Keras.\n*   **Generative AI Intern**\n    *   **Company:** Blackbuck Engineers\n    *   **Dates:** June 2024 - July 2024\n    *   **Location:** Online\n    *   **Description:** Built and trained a model on the CIFAR-10 dataset, achieving ~85% test accuracy, while experimenting with architecture variations to improve performance. Enhanced model robustness using normalization, data augmentation, dropout, and batch normalization reducing overfitting by 20\u201325%.\n\n**Project:**\n*   **Project Name:** eeg\n    *   **Description:** it is imp\n    *   **Technologies:** ml, ai, health machine eeg\n    *   **Links:** https://neurocruxalitix.onrender.com/"
+    },
+    {
+      "user": "Y.Abhiram_Chowdary",
+      "agent": "Here is the information for Y.Abhiram_Chowdary:\n\n**Summary:** Yalla Abhiram Chowdary is an aspiring Data Engineer and Machine Learning Enthusiast with a B.Tech in ECE (ML Minor). He has valuable internship experience at Antt AI Labs, IIT Tirupati, and InternPe, developing AI agents, BCIs, and predictive models. Proficient in Python, SQL, Generative AI (LLMs, RAG), and ML/DL frameworks, he crafts data-driven solutions. His projects showcase end-to-end development, from EEG-based stress detection to AI-IoT crop advisory systems. A problem-solver, he combines strong technical skills with a passion for real-world AI and automation.\n\n**Skills:**\n*   **Programming Languages:** Python, C++, C\n*   **Generative AI:** LLMs, RAG\n*   **Other Proficiencies:** SQL, ML/DL frameworks\n\n**Experience (Project):**\n*   **Project Name:** eeg\n*   **Description:** it is imp\n*   **Technologies:** ml, ai, health machine eeg\n*   **Links:** https://neurocruxalitix.onrender.com/"
+    },
+    {
+      "user": "i want data science intern if i want to hire who is the best fit suggest one name",
+      "agent": "Based on the provided context, **MUDUNURI SEETA RAMA KARTHIKEYA VARMA** is the best fit for a data science intern role.\n\nTheir resume clearly outlines strong skills in:\n*   **Machine Learning:** Supervised & Unsupervised Learning, Ensemble Learning, Model Evaluation & Tuning.\n*   **Deep Learning:** ANN, CNN, LSTM, Hyperparameter Optimization.\n*   **Generative AI:** LLMs / SLMs Fine-Tuning, RAG.\n*   **Libraries and Frameworks essential for Data Science:** LangChain, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit Learn, Keras, TensorFlow.\n*   **Programming Languages:** Python (crucial for data science).\n\nTheir experience as a \"Machine Learning Intern\" at IIT TIRUPATI involved designing and implementing models, hyperparameter tuning, and training neural networks, which are core data science tasks. The \"Generative AI Intern\" role further showcases their ability to build and train models and enhance robustness.\n\nWhile Y.Abhiram_Chowdary's summary mentions aspirations in Data Engineering and Machine Learning and proficiency in Python, SQL, Generative AI, and ML/DL frameworks, the provided \"Skills\" section is very brief (only programming languages listed), and the \"Experience\" section is entirely blank in the context provided. This lack of detail makes it impossible to assess their specific qualifications and work history for a data science intern role as thoroughly as MUDUNURI SEETA RAMA KARTHIKEYA VARMA."
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY",
+      "agent": "**YALLA ABHIRAM CHOWDARY**\n\n**Summary:** Aspiring Data Engineer and Machine Learning Enthusiast skilled in Python, data analysis, and AI-based automation. Experienced in developing predictive models, IoT-integrated intelligent systems, and data-driven solutions to solve real-world challenges.\n\n**Skills:** programming_languages; machine_learning; generative_ai; libraries_frameworks; tools; database_web_technologies; soft_skills\n\n**Experience:**\n*   **AI Intern** at Antt AI Labs Private Limited (Aug 2025 \u2013 Oct 2025, Bengaluru)\n    *   Designed and deployed voice-controlled AI agents using the OpenAI platform and Gemini APIs for real-time automation.\n    *   Integrated FastMCP-based robotic pick-and-place workflows, boosting operational efficiency by 25%.\n    *   Gained hands-on experience with Action Transformers, SmolVLA, NLP, prompt engineering, and TypeScript for intelligent agent development.\n*   **Research Intern** at IIT Tirupati (May 2025 \u2013 Jul 2025, Tirupati)\n    *   Explored the biomedical applications of BCIs, focusing on EEG and MEG devices to improve human-computer interaction.\n    *   Developed a single-channel EEG-based framework for real-time mental state and stress classification.\n    *   Extracted neurophysiological features (Beta/Alpha, Theta/Beta, spectral entropy) using advanced signal processing.\n    *   Built an ensemble of XGBoost, LightGBM, and Random Forest models achieving 85% accuracy across five cognitive states.\n    *   Applied SHAP-based explainability and deployed the system via Flask for live EEG prediction and visualization.\n*   **Machine Learning Intern** at InternPe (Jan 2024 \u2013 Feb 2024, Remote)\n    *   Built predictive models for healthcare and automobile pricing using Python, Pandas, and Scikit-learn.\n    *   Conducted preprocessing, feature engineering, and model tuning to improve predictive performance.\n    *   Contributed to end-to-end development of ML pipelines supporting analytics and deployment tasks.\n\n**Project:**\n*   **eeg**\n    *   **Description:** it is imp\n    *   **Technologies:** ml, ai, health machine eeg\n    *   **Links:** https://neurocruxalitix.onrender.com/"
+    },
+    {
+      "user": "MUDUNURI SEETA RAMA KARTHIKEYA VARMA",
+      "agent": "Here is the information for MUDUNURI SEETA RAMA KARTHIKEYA VARMA:\n\n**Summary:**\nMUDUNURI SEETA RAMA KARTHIKEYA VARMA's summary is not explicitly provided in the context.\n\n**Skills:**\n*   **Machine Learning:** Supervised & Unsupervised Learning, Ensemble Learning, Model Evaluation & Tuning\n*   **Deep Learning:** ANN, CNN, LSTM, Transfer Learning Hyperparameter Optimization\n*   **Generative AI:** Quantization, LLMs / SLMs Fine-Tuning, RAG\n*   **Libraries and Frameworks:** LangChain, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit Learn, Keras, TensorFlow, OpenCV, Beautiful Soup\n*   **Tools:** Hugging Face, Power BI, Render, Docker\n*   **Programming Languages:** C, Python, Java, C++\n*   **Soft Skills:** Depth-oriented, Pragmatic, Self-motivated\n\n**Experience:**\n*   **Machine Learning Intern**\n    *   **Company:** IIT TIRUPATI\n    *   **Dates:** May 2025 \u2013 June 2025\n    *   **Location:** Tirupati\n    *   **Description:** Designed and implemented a hybrid CNN-LSTM model to predict milling forces from spindle current signals, reducing reliance on physical sensors by 30\u201340%. Conducted systematic hyperparameter tuning, exploring variations in kernel size, filters, LSTM cell counts, and learning rates, leading to a 15% increase in model accuracy. Trained a robust neural network to model non-linear and delayed relationships between current and force signals with Keras.\n*   **Generative AI Intern**\n    *   **Company:** Blackbuck Engineers\n    *   **Dates:** June 2024 - July 2024\n    *   **Location:** Online\n    *   **Description:** Built and trained a model on the CIFAR-10 dataset, achieving ~85% test accuracy, while experimenting with architecture variations to improve performance. Enhanced model robustness using normalization, data augmentation, dropout, and batch normalization reducing overfitting by 20\u201325%.\n\n**Project:**\n*   **Name:** eeg\n*   **Description:** it is imp\n*   **Technologies:** ml, ai, health machine eeg\n*   **Links:** https://neurocruxalitix.onrender.com/"
+    },
+    {
+      "user": "i want data science intern if i want to hire who is the best fit suggest one name",
+      "agent": "Based on the context provided, **YALLA ABHIRAM CHOWDARY** is the best fit for a Data Science Intern role.\n\nHere's why:\n\n*   **Summary:** Explicitly mentions \"Aspiring Data Engineer and Machine Learning Enthusiast skilled in Python, data analysis...\" and \"data-driven solutions.\"\n*   **Skills:** Lists \"machine_learning,\" \"generative_ai,\" and relevant \"libraries_frameworks\" and \"tools.\"\n*   **Experience:**\n    *   **Research Intern (IIT Tirupati):** Demonstrates strong data science capabilities by \"Developed a single-channel EEG-based framework for real-time mental state and stress classification,\" \"Extracted neurophysiological features,\" \"Built an ensemble of XGBoost, LightGBM, and Random Forest models achieving 85% accuracy,\" and \"Applied SHAP-based explainability and deployed the system via Flask for live EEG prediction and visualization.\" This covers data collection, feature engineering, model building, evaluation, interpretability, and deployment.\n    *   **Machine Learning Intern (InternPe):** Directly relevant experience in \"Built predictive models for healthcare and automobile pricing using Python, Pandas, and Scikit-learn,\" \"Conducted preprocessing, feature engineering, and model tuning,\" and \"Contributed to end-to-end development of ML pipelines supporting analytics and deployment tasks.\"\n\nMUDUNURI SEETA RAMA KARTHIKEYA VARMA also has strong Machine Learning skills, but YALLA ABHIRAM CHOWDARY's resume provides more comprehensive and explicitly detailed experience across the data science lifecycle, including data analysis, feature engineering, multiple modeling techniques, interpretability, and deployment."
+    },
+    {
+      "user": "in comparing all aspects suggest one name based on their resume",
+      "agent": "Based on comparing all aspects of the provided resumes:\n\nYALLA ABHIRAM CHOWDARY's resume includes a comprehensive summary and details three distinct internships covering a wide range of skills: AI agent development, robotics integration, biomedical research (BCIs, EEG, signal processing, ML modeling, explainability, deployment), and foundational ML. The experience section clearly demonstrates application of modern AI/ML/GenAI tools and techniques with measurable impacts.\n\nMUDUNURI SEETA RAMA KARTHIKEYA VARMA's resume has an excellent and very specific list of skills across Machine Learning, Deep Learning, and Generative AI (including advanced techniques like Quantization, LLMs/SLMs Fine-Tuning, RAG, LangChain, Hugging Face, Docker). However, the summary section is missing, and only one internship experience is detailed. While that single experience is strong and technically deep, it doesn't provide the same breadth of demonstrated practical application as YALLA's multiple roles.\n\nConsidering the completeness of the resume (including a summary) and the broader range of demonstrated experience across research, practical application, and different domains, **YALLA ABHIRAM CHOWDARY** is suggested."
+    },
+    {
+      "user": "give me the projects and skills of  MUDUNURI SEETA RAMA KARTHIKEYA VARMA",
+      "agent": "**Skills:**\n*   **Machine Learning:** Supervised & Unsupervised Learning, Ensemble Learning, Model Evaluation & Tuning\n*   **Deep Learning:** ANN, CNN, LSTM, Transfer Learning, Hyperparameter Optimization\n*   **Generative AI:** Quantization, LLMs / SLMs Fine-Tuning, RAG\n*   **Libraries and Frameworks:** LangChain, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit Learn, Keras, TensorFlow, OpenCV, Beautiful Soup\n*   **Tools:** Hugging Face, Power BI, Render, Docker\n*   **Programming Languages:** C, Python, Java, C++\n*   **Soft Skills:** Depth-oriented, Pragmatic, Self-motivated\n\n**Projects (from Experience):**\n1.  **Hybrid CNN-LSTM Model for Milling Force Prediction (IIT TIRUPATI):** Designed and implemented a hybrid CNN-LSTM model to predict milling forces from spindle current signals, reducing reliance on physical sensors by 30\u201340%. Conducted systematic hyperparameter tuning, exploring variations in kernel size, filters, LSTM cell counts, and learning rates, leading to a 15% increase in model accuracy. Trained a robust neural network to model non-linear and delayed relationships between current and force signals with Keras.\n2.  **CIFAR-10 Model Training and Robustness Enhancement (Blackbuck Engineers):** Built and trained a model on the CIFAR-10 dataset, achieving ~85% test accuracy, while experimenting with architecture variations to improve performance. Enhanced model robustness using normalization, data augmentation, dropout, and batch normalization reducing overfitting by 20\u201325%."
+    },
+    {
+      "user": "github of MUDUNURI SEETA RAMA KARTHIKEYA VARMA",
+      "agent": "I don't know. The context provided does not include the GitHub profile for MUDUNURI SEETA RAMA KARTHIKEYA VARMA. To find this information, you would typically look for a 'Links' or 'Portfolio' section on their resume, or search for their name on GitHub or professional networking sites like LinkedIn."
+    },
+    {
+      "user": "MUDUNURI SEETA RAMA KARTHIKEYA VARMA github",
+      "agent": "I don't know. The provided context does not include a GitHub profile for MUDUNURI SEETA RAMA KARTHIKEYA VARMA.\n\n**Helpful next steps:**\n* You could try searching for \"MUDUNURI SEETA RAMA KARTHIKEYA VARMA GitHub\" on search engines like Google or LinkedIn.\n* The project \"eeg\" has a link: `https://neurocruxalitix.onrender.com/`. While this isn't a GitHub link, sometimes project deployments might link back to their source code repositories."
+    },
+    {
+      "user": "linkedin of yalla abhiram chowdary",
+      "agent": "I don't know. The provided context does not contain the LinkedIn profile for YALLA ABHIRAM CHOWDARY.\n\n**Next steps:**\n* You could try searching for \"YALLA ABHIRAM CHOWDARY\" on LinkedIn directly.\n* If you have access to a different resume or portfolio for YALLA ABHIRAM CHOWDARY, you might find the link there."
+    },
+    {
+      "user": "YALLA ABHIRAM CHOWDARY contact",
+      "agent": "I don't know. The context provided (YALLA ABHIRAM CHOWDARY's resume) does not contain contact information such as an email address, phone number, or social media links. You might be able to find this information on their LinkedIn profile or a personal portfolio if they have one."
+    },
+    {
+      "user": "phone YALLA ABHIRAM CHOWDARY",
+      "agent": "I don't know. The provided context for YALLA ABHIRAM CHOWDARY does not include a phone number.\n\n**Helpful next steps:** You might need to check a complete resume or a personal portfolio if available, as contact details are often found there."
+    }
+  ],
+  "eeg": [
+    {
+      "user": "eeg link",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "\"Antt AI Labs ended in october",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "how many yearns experience he have if Antt AI Labs  internship is ended in october",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "how many years experience he have if Antt AI Labs internship is ended in october",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "execute project eeg",
+      "agent": "Run command: python3 projects/app.py"
+    },
+    {
+      "user": "Run a specific script or program related to the EEG project",
+      "agent": "Run command: python3 projects/app.py"
+    },
+    {
+      "user": "nin render link for porjet eeg",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "render link for porjet eeg",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "give me his experience in ai he have if any",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "iam looking for ai enginner he is suitable or not",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "iam looking for ai enginner he is suitable or not based on this i will hirw him",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "who is best for ai engineer abhiram or karthikeya in all aspects ,if i want to hire",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "who is best for job abhiram or M.S.R.KarthikeyaVarmain all aspects ,if i want to hire",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "whose name u suggest  or  best for job abhiram or M.S.R.KarthikeyaVarmain all aspects ,if i want to hire",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "execute eeg project",
+      "agent": "Run command: python3 projects/app.py"
+    },
+    {
+      "user": "hi explain the rffid tags",
+      "agent": "eeg \u2014 it is imp"
+    },
+    {
+      "user": "can u give me the details of rgukt college in ap state",
+      "agent": "it is imp"
+    },
+    {
+      "user": "details of rgukt college in ap state",
+      "agent": "it is imp"
+    },
+    {
+      "user": "details of rgukt college in ap state i want to know",
+      "agent": "it is imp"
+    }
+  ]
+}
