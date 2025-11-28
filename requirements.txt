@@ -1,0 +1,6 @@
+docx2txt==0.9
+Flask==3.1.2
+protobuf==6.33.1
+PyPDF2==3.0.1
+python-dotenv==1.2.1
+Werkzeug==3.1.3
